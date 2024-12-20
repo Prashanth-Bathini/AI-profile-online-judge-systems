@@ -1,0 +1,37 @@
+Identifying Student Profiles within Online Judge systems using Explainable Artificial Intelligence
+
+Student profile identification, Online Judge systems, Multi-Instance Learning, eXplainable Artificial Intelligence,
+Machine Learning
+
+
+IEEE Transactions on Machine Learning Technologies,Issue Date:23.January.2023
+
+
+Identifying_Student_Profiles
+
+
+identifying_student_profiles
+
+
+
+predict_Online_student_Judgement
+
+
+
+Fid	
+age	
+gender	
+lunch	
+parental_level_of_education	
+degree_t	
+race_ethnicity	
+test_preparation_course	
+math_score	
+reading_score	
+writing_score	
+Internships	
+solving_tasks_by_time	
+taks_submitted_on_date	
+Prediction
+
+

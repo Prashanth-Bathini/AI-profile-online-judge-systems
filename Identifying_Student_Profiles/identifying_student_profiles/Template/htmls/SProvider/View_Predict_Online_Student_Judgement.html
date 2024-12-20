@@ -1,0 +1,112 @@
+{% extends 'SProvider/Header.html' %}
+{% block researchblock %}
+
+
+<link rel="icon" href="images/icon.png" type="image/x-icon" />
+
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
+
+
+
+		<style>
+			body {background-color:#000000;}
+			.container-fluid {padding:50px;}
+			.container{background-color:white;padding:50px;   }
+			#title{font-family: 'Fredoka One', cursive;
+}
+			.text-uppercase{
+			font-family: 'Righteous', cursive;
+
+			}
+			.tweettext{
+
+    border: 2px solid yellowgreen;
+    width: 1104px;
+    height: 442px;
+    overflow: scroll;
+    background-color:;
+}
+		.style1 {
+	color: #FF0000;
+	font-weight: bold;
+}
+.style12 {color: #FFFF00; font-weight: bold; }
+        </style>
+
+	<body>
+	<div class="container-fluid">
+		<div class="container">
+
+			<div class="row">
+				<div class="col-md-5">
+ 					<form role="form" method="POST" >
+						{% csrf_token %}
+						<fieldset>
+							<p class="text-uppercase pull-center style1">View Online Student Judgement Prediction Type Details  !!! </p>
+                            <hr>
+                            <div class="tweettext">
+                               <table border="5" bordercolor="#FF00FF">
+
+
+                                   <tr>
+
+                                       <td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">Fid</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">age</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">gender</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">lunch</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">parental_level_of_education</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">degree_t</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">race_ethnicity</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">test_preparation_course</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">math_score</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">reading_score</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">writing_score</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">Internships</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">solving_tasks_by_time</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">taks_submitted_on_date</span></div></td>
+<td bgcolor="#FF0000"><div align="center" class="style12"><span class="style8 style6">Prediction</span></div></td>
+
+                      </tr>
+                            {% for object in list_objects %}
+                      <tr>
+
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.Fid}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.age}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.gender}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.lunch}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.parental_level_of_education}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.degree_t}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.race_ethnicity}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.test_preparation_course}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.math_score}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.reading_score}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.writing_score}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.Internships}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.solving_tasks_by_time}}</td>
+<td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.taks_submitted_on_date}}</td>
+ <td bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" >{{object.Prediction}}</td>
+
+                        </tr>
+
+                                        {% endfor %}
+                      </table>
+
+                            </div>
+
+
+
+
+						</fieldset>
+					</form>
+				</div>
+
+				<div class="col-md-2">
+					<!-------null------>
+				</div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+    <tr>

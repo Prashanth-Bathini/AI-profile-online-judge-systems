@@ -1,0 +1,152 @@
+{% extends 'RUser/Header.html' %}
+{% block userblock %}
+
+
+<link rel="icon" href="images/icon.png" type="image/x-icon" />
+
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
+
+
+
+		<style>
+			body {background-color:#000000;}
+			.container-fluid {padding:50px;}
+			.container{background-color:white;padding:50px;   }
+			#title{font-family: 'Fredoka One', cursive;
+}
+			.text-uppercase{
+			font-family: 'Righteous', cursive;
+
+			}
+			.tweettext{
+
+    border: 2px solid yellowgreen;
+    width: 904px;
+    height: 202px;
+    overflow: scroll;
+    background-color:;
+}
+		.style1 {
+	color: #FF0000;
+	font-weight: bold;
+}
+.style4 {color: #FFFF00; font-weight: bold; }
+.style6 {
+	font-size: 24px;
+	color: #FFFF00;
+	font-weight: bold;
+}
+        </style>
+
+	<body>
+	<div class="container-fluid">
+		<div class="container">
+
+			<div class="row">
+				<div class="col-md-5">
+
+                   <form role="form" method="POST" >
+						{% csrf_token %}
+						<fieldset>
+							<p class="text-uppercase pull-center style1">PREDICTION OF ONLINE STUDENT'S PROFILE JUDGEMENT DETECTION!!! </p>
+                            <hr>
+
+                                {% csrf_token %}
+                                <table width="1122" align="center">
+                                  <tr>
+                                    <td height="44" bgcolor="#FF0000"><div align="center" class="style4">Enter Fid</div></td>
+                                    <td><input type="text" name="Fid"></td>
+                                    <td bgcolor="#FF0000"><div align="center" class="style4">Enter age </div></td>
+                                    <td><input type="text" name="age"></td>
+                                  </tr>
+                                  <tr>
+                                    <td height="44" bgcolor="#FF0000"><div align="center" class="style4">Enter gender </div></td>
+                                    <td><select name="gender">
+                                      <option>---Select---</option>
+                                      <option>Male</option>
+                                      <option>Female</option>
+                                    </select></td>
+                                    <td bgcolor="#FF0000"><div align="center" class="style4">Enter lunch </div></td>
+                                    <td><input type="text" name="lunch"></td>
+                                  </tr>
+                                  <tr>
+                                    <td height="44" bgcolor="#FF0000"><div align="center" class="style4">Enter parental_level_of_education</div></td>
+                                    <td><input type="text" name="parental_level_of_education"></td>
+                                    <td bgcolor="#FF0000"><div align="center" class="style4">degree_t</div></td>
+                                    <td><input type="text" name="degree_t"></td>
+                                  </tr>
+                                  <tr>
+                                    <td height="44" bgcolor="#FF0000"><div align="center" class="style4">Enter race_ethnicity</div></td>
+                                    <td><input type="text" name="race_ethnicity"></td>
+                                    <td bgcolor="#FF0000"><div align="center" class="style4">Enter test_preparation_course	</div></td>
+                                    <td><input type="text" name="test_preparation_course"></td>
+                                  </tr>
+                                  <tr>
+                                    <td height="44" bgcolor="#FF0000"><div align="center" class="style4">
+                                      <div align="center">Enter math_score</div>
+                                    </div></td>
+                                    <td><input type="text" name="math_score"></td>
+                                    <td bgcolor="#FF0000"><div align="center" class="style4">Enter reading_score</div></td>
+                                    <td><input type="text" name="reading_score"></td>
+                                  </tr>
+                                  <tr>
+                                    <td height="44" bgcolor="#FF0000"><div align="center" class="style4">
+                                      <div align="center">Enter writing_score</div>
+                                    </div></td>
+                                    <td><input type="text" name="writing_score"></td>
+                                    <td bgcolor="#FF0000"><div align="center" class="style4">Enter Internships</div></td>
+                                    <td><input type="text" name="Internships"></td>
+                                  </tr>
+                                  <tr>
+                                    <td height="44" bgcolor="#FF0000"><div align="center" class="style4">Enter solving_tasks_by_time</div></td>
+                                    <td><input type="text" name="solving_tasks_by_time"></td>
+                                    <td bgcolor="#FF0000"><div align="center" class="style4">Enter taks_submitted_on_date</div></td>
+                                    <td><input type="text" name="taks_submitted_on_date"></td>
+                                  </tr>
+                                  <tr>
+                                    <td width="287" height="44" bgcolor="#FFFFFF">&nbsp;</td>
+                                    <td width="269"><input name="submit" type="submit" class="style1" value="Predict"></td>
+                                    <td width="269">&nbsp;</td>
+                                    <td width="269">&nbsp;</td>
+                                  </tr>
+                                </table>
+					 </fieldset>
+				  </form>
+
+
+ 					<form role="form" method="POST" >
+						{% csrf_token %}
+						<fieldset>
+
+                            <hr>
+                            <div>
+                              <table width="693" height="67" border="0" align="center" >
+                                    <tr><td width="475" bgcolor="#FF0000"><div align="center"><span class="style6">Prediction Of Online Student's Profile Judgement  </span> :: </div></td>
+
+
+
+                                      <td width="208" bgcolor="#FFFFFF" style="color:red; font-size:20px; font-family:fantasy" ><div align="center"><strong>{{objs}}</strong></div></td>
+                                    </tr>
+                      </table>
+
+
+
+                            </div>
+
+
+
+
+						</fieldset>
+					</form>
+				</div>
+
+				<div class="col-md-2">
+					<!-------null------>
+				</div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+    <tr>

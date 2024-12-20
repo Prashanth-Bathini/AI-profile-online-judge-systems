@@ -1,0 +1,1001 @@
+Fid,age,gender,lunch,parental_level_of_education,degree_t,race_ethnicity,test_preparation_course,math_score,reading_score,writing_score,Internships,solving_tasks_by_time,taks_submitted_on_date,Label
+192.229.163.180-10.42.0.211-443-44480-6,22,female,standard,bachelor's degree,Sci&Tech,group B,none,72,72,74,1,1,0,0
+10.42.0.211-104.24.19.3-38918-80-6,21,female,standard,master's degree,Sci&Tech,group C,completed,69,90,88,0,1,0,1
+10.42.0.211-23.194.108.108-54658-443-6,22,female,standard,master's degree,Comm&Mgmt,group B,none,90,95,93,1,0,0,0
+151.101.21.140-10.42.0.211-443-56696-6,21,male,free/reduced,associate's degree,Sci&Tech,group A,none,47,57,44,0,0,0,0
+10.42.0.211-10.42.0.1-34682-53-17,22,male,standard,master's degree,Comm&Mgmt,group C,none,76,78,75,0,1,0,1
+10.42.0.211-10.42.0.1-28333-53-17,22,female,standard,associate's degree,Sci&Tech,group B,none,71,83,78,0,0,0,1
+10.42.0.42-37.1.203.158-43380-443-6,21,female,standard,master's degree,Comm&Mgmt,group B,completed,88,95,92,0,0,0,1
+220.243.219.55-10.42.0.211-80-56695-6,21,male,free/reduced,master's degree,Sci&Tech,group B,none,40,43,39,1,0,0,1
+10.42.0.151-106.39.169.66-52382-80-6,21,male,free/reduced,high school,Comm&Mgmt,group D,completed,64,64,67,2,0,0,0
+180.149.134.141-10.42.0.211-80-40608-6,21,female,free/reduced,high school,Comm&Mgmt,group B,none,38,60,50,1,1,1,1
+10.42.0.151-10.42.0.1-40056-53-17,22,male,standard,associate's degree,Comm&Mgmt,group C,none,58,54,52,1,0,0,1
+10.42.0.211-104.192.110.245-59749-80-6,22,male,standard,associate's degree,Comm&Mgmt,group D,none,40,52,43,1,0,1,0
+10.42.0.211-104.192.110.245-38733-443-6,21,female,standard,high school,Comm&Mgmt,group B,none,65,81,73,2,1,0,0
+10.42.0.211-10.42.0.1-63229-53-17,21,male,standard,master's degree,Comm&Mgmt,group A,completed,78,72,70,1,0,0,0
+172.217.10.238-10.42.0.42-443-55300-6,21,female,standard,master's degree,Comm&Mgmt,group A,none,50,53,58,2,0,1,0
+10.42.0.211-10.42.0.1-7098-53-17,22,female,standard,some high school,Comm&Mgmt,group C,none,69,75,78,0,1,1,1
+203.205.151.47-10.42.0.211-80-54828-6,22,male,standard,high school,Comm&Mgmt,group C,none,88,89,86,1,1,1,0
+172.217.10.65-10.42.0.211-443-47011-6,21,female,free/reduced,some high school,Comm&Mgmt,group B,none,18,32,28,0,0,1,0
+10.42.0.211-104.193.88.109-33990-80-6,21,male,free/reduced,master's degree,Comm&Mgmt,group C,completed,46,42,46,1,0,0,0
+10.42.0.211-64.71.142.124-35792-443-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group C,none,54,58,61,1,0,0,0
+10.42.0.211-31.13.80.5-40597-443-6,22,male,standard,high school,Comm&Mgmt,group D,none,66,69,63,0,0,1,0
+180.149.136.194-10.42.0.211-80-43789-6,21,female,free/reduced,master's degree,Comm&Mgmt,group B,completed,65,75,70,1,0,0,0
+172.217.3.106-10.42.0.42-443-60833-6,22,male,standard,master's degree,Sci&Tech,group D,none,44,54,53,0,0,1,0
+203.205.179.170-10.42.0.151-80-48208-6,22,female,standard,some high school,Sci&Tech,group C,none,69,73,73,1,0,1,1
+172.217.12.132-10.42.0.211-443-56866-6,22,male,free/reduced,bachelor's degree,Sci&Tech,group D,completed,74,71,80,0,0,1,0
+10.42.0.211-10.42.0.1-1238-53-17,21,male,free/reduced,master's degree,Comm&Mgmt,group A,none,73,74,72,0,1,0,0
+10.42.0.42-123.125.115.164-39501-443-6,22,male,standard,master's degree,Comm&Mgmt,group B,none,69,54,55,1,0,0,0
+175.100.207.232-10.42.0.151-80-40406-6,22,female,standard,bachelor's degree,Comm&Mgmt,group C,none,67,69,75,1,0,0,0
+10.42.0.42-23.192.76.180-42213-80-6,22,male,standard,high school,Comm&Mgmt,group C,none,70,70,65,1,0,0,0
+10.42.0.211-77.234.41.79-43584-443-6,21,female,standard,master's degree,Comm&Mgmt,group D,none,62,70,75,0,0,0,1
+157.240.2.20-10.42.0.42-443-33417-6,22,female,standard,master's degree,Comm&Mgmt,group D,none,69,74,74,1,1,0,0
+172.217.6.238-10.42.0.42-443-57705-6,21,female,standard,master's degree,Sci&Tech,group B,none,63,65,61,1,0,0,0
+10.42.0.211-119.6.229.36-42616-80-6,21,female,free/reduced,master's degree,Comm&Mgmt,group E,none,56,72,65,1,0,0,1
+10.42.0.211-23.205.27.180-59858-443-6,21,male,standard,master's degree,Comm&Mgmt,group D,none,40,42,38,0,0,1,0
+202.77.129.54-10.42.0.211-80-54561-6,21,male,standard,master's degree,Others,group E,none,97,87,82,1,0,1,0
+173.194.68.188-10.42.0.151-5228-57143-6,21,male,standard,associate's degree,Comm&Mgmt,group E,completed,81,81,79,1,0,0,0
+172.217.11.46-10.42.0.211-443-32854-6,22,female,standard,associate's degree,Comm&Mgmt,group D,none,74,81,83,0,0,1,0
+10.42.0.211-10.42.0.1-35206-53-17,22,female,free/reduced,some high school,Sci&Tech,group D,none,50,64,59,1,0,1,0
+10.42.0.42-99.46.84.58-46360-46021-17,22,female,free/reduced,associate's degree,Comm&Mgmt,group D,completed,75,90,88,1,0,1,0
+202.77.129.150-10.42.0.211-80-49447-6,22,male,free/reduced,associate's degree,Sci&Tech,group B,none,57,56,57,0,0,1,0
+172.217.3.98-10.42.0.211-443-33086-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group C,none,55,61,54,1,0,1,1
+10.42.0.151-10.42.0.1-37133-53-17,22,female,standard,associate's degree,Comm&Mgmt,group C,none,58,73,68,0,1,1,0
+10.42.0.151-10.42.0.1-25156-53-17,21,female,standard,associate's degree,Others,group B,none,53,58,65,1,1,1,0
+172.217.3.97-10.42.0.211-443-34856-6,21,male,free/reduced,master's degree,Comm&Mgmt,group B,completed,59,65,66,1,0,1,0
+198.11.136.24-10.42.0.211-443-52591-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group E,none,50,56,54,2,0,0,0
+172.217.12.206-10.42.0.151-443-60248-6,21,male,standard,associate's degree,Sci&Tech,group B,none,65,54,57,3,0,1,1
+220.170.182.31-10.42.0.211-443-37058-6,22,female,standard,associate's degree,Comm&Mgmt,group A,completed,55,65,62,1,0,0,1
+172.217.8.8-10.42.0.151-443-48212-6,21,female,standard,high school,Comm&Mgmt,group C,none,66,71,76,1,0,1,0
+10.42.0.211-10.42.0.1-53635-53-17,21,female,free/reduced,associate's degree,Comm&Mgmt,group D,completed,57,74,76,2,0,0,0
+199.16.156.107-10.42.0.151-443-52951-6,21,male,standard,high school,Others,group C,completed,82,84,82,0,0,0,0
+202.77.129.161-10.42.0.211-80-45556-6,22,male,standard,master's degree,Comm&Mgmt,group E,none,53,55,48,0,0,1,1
+10.42.0.211-23.205.27.180-34039-80-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group E,completed,77,69,68,1,0,0,0
+219.142.78.162-10.42.0.151-80-54615-6,21,male,standard,master's degree,Comm&Mgmt,group C,none,53,44,42,1,1,1,0
+175.100.207.233-10.42.0.211-80-36369-6,21,male,standard,high school,Sci&Tech,group D,none,88,78,75,3,1,0,0
+10.42.0.211-115.236.16.203-34329-443-6,21,female,free/reduced,some high school,Comm&Mgmt,group C,completed,71,84,87,3,0,1,0
+10.42.0.42-87.240.165.91-58739-443-6,21,female,free/reduced,high school,Comm&Mgmt,group C,none,33,41,43,1,0,0,1
+10.42.0.42-52.84.26.207-55239-80-6,21,female,standard,associate's degree,Comm&Mgmt,group E,completed,82,85,86,0,0,1,0
+10.42.0.211-10.42.0.1-57966-53-17,21,male,standard,associate's degree,Comm&Mgmt,group D,none,52,55,49,0,0,1,1
+182.22.25.124-10.42.0.211-443-37917-6,21,male,standard,master's degree,Comm&Mgmt,group D,completed,58,59,58,0,0,1,0
+10.42.0.211-47.89.69.237-35895-443-6,21,female,free/reduced,some high school,Sci&Tech,group C,none,0,17,10,1,0,0,0
+10.42.0.211-106.39.162.36-44215-80-6,21,male,free/reduced,bachelor's degree,Comm&Mgmt,group E,completed,79,74,72,2,0,0,1
+172.217.3.36-10.42.0.151-443-37155-6,22,male,free/reduced,some high school,Comm&Mgmt,group A,none,39,39,34,0,0,0,0
+10.42.0.42-106.11.93.16-35837-443-6,21,male,free/reduced,associate's degree,Sci&Tech,group A,none,62,61,55,0,0,1,1
+10.42.0.211-10.42.0.1-20638-53-17,21,female,standard,associate's degree,Comm&Mgmt,group C,none,69,80,71,0,0,1,0
+172.217.11.10-10.42.0.211-443-38940-6,21,female,standard,some high school,Comm&Mgmt,group D,none,59,58,59,1,1,1,1
+182.254.5.234-10.42.0.211-80-34004-6,22,male,standard,some high school,Comm&Mgmt,group B,none,67,64,61,0,0,1,1
+208.80.154.224-10.42.0.211-443-48800-6,22,male,free/reduced,some high school,Comm&Mgmt,group D,none,45,37,37,1,0,1,0
+10.42.0.42-61.135.185.139-53282-80-6,21,female,standard,master's degree,Comm&Mgmt,group C,none,60,72,74,0,0,1,0
+208.80.154.224-10.42.0.211-443-47825-6,22,male,free/reduced,associate's degree,Sci&Tech,group B,none,61,58,56,2,0,1,1
+203.205.147.229-10.42.0.211-80-42837-6,21,female,standard,associate's degree,Sci&Tech,group C,none,39,64,57,0,1,1,0
+172.217.10.34-10.42.0.211-443-57245-6,22,female,free/reduced,master's degree,Sci&Tech,group D,completed,58,63,73,1,0,0,0
+131.253.61.64-10.42.0.211-443-42869-6,22,male,standard,master's degree,Comm&Mgmt,group D,completed,63,55,63,0,0,1,0
+10.42.0.211-104.193.88.109-35018-80-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group A,none,41,51,48,3,0,1,1
+172.217.6.195-10.42.0.211-443-56715-6,21,male,free/reduced,some high school,Comm&Mgmt,group C,none,61,57,56,0,0,0,0
+182.22.120.252-10.42.0.151-443-43856-6,22,male,standard,some high school,Comm&Mgmt,group C,none,49,49,41,1,0,0,1
+10.42.0.211-123.125.115.164-43487-443-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group B,none,44,41,38,0,0,1,0
+172.217.9.238-10.42.0.211-443-39218-6,21,male,standard,some high school,Comm&Mgmt,group E,none,30,26,22,0,1,1,1
+172.217.10.14-10.42.0.42-443-58558-6,22,male,standard,bachelor's degree,Sci&Tech,group A,completed,80,78,81,0,1,1,0
+203.205.158.62-10.42.0.211-80-34145-6,22,female,standard,some high school,Sci&Tech,group D,completed,61,74,72,0,0,1,1
+175.100.207.233-10.42.0.211-80-51407-6,21,female,standard,master's degree,Sci&Tech,group E,none,62,68,68,1,0,0,1
+10.42.0.42-76.13.28.70-51472-443-6,21,female,standard,associate's degree,Comm&Mgmt,group B,none,47,49,50,0,0,0,1
+10.42.0.151-104.69.158.16-43939-443-6,21,male,free/reduced,high school,Comm&Mgmt,group B,none,49,45,45,1,0,0,0
+180.163.255.159-10.42.0.42-443-51719-6,22,male,free/reduced,master's degree,Comm&Mgmt,group A,completed,50,47,54,0,1,0,1
+183.79.215.139-10.42.0.211-443-33389-6,21,male,standard,associate's degree,Sci&Tech,group E,none,72,64,63,0,0,0,1
+10.42.0.211-104.193.88.109-41653-80-6,21,male,free/reduced,high school,Sci&Tech,group D,none,42,39,34,0,1,0,1
+216.58.219.227-10.42.0.151-443-39955-6,21,female,standard,master's degree,Comm&Mgmt,group C,none,73,80,82,2,0,0,1
+172.217.10.14-10.42.0.151-443-50622-6,21,female,free/reduced,master's degree,Comm&Mgmt,group C,none,76,83,88,0,0,0,0
+172.217.11.42-10.42.0.151-443-44676-6,21,female,standard,associate's degree,Others,group D,none,71,71,74,0,0,0,0
+10.42.0.211-10.42.0.1-1936-53-17,22,female,standard,master's degree,Comm&Mgmt,group A,none,58,70,67,1,1,0,1
+10.42.0.211-64.71.142.124-43037-443-6,22,female,standard,some high school,Sci&Tech,group D,none,73,86,82,1,0,1,0
+216.58.219.194-10.42.0.151-443-33116-6,21,female,standard,bachelor's degree,Comm&Mgmt,group C,none,65,72,74,1,0,0,1
+10.42.0.151-10.42.0.1-17890-53-17,22,male,free/reduced,high school,Comm&Mgmt,group C,none,27,34,36,1,0,0,0
+172.217.10.138-10.42.0.211-443-46898-6,21,male,standard,high school,Comm&Mgmt,group C,none,71,79,71,1,0,0,0
+172.217.12.138-10.42.0.151-443-46194-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group C,completed,43,45,50,2,0,1,1
+10.42.0.211-66.102.255.40-44175-80-6,22,female,standard,master's degree,Comm&Mgmt,group B,none,79,86,92,0,0,1,0
+172.217.6.226-10.42.0.211-443-51230-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group C,completed,78,81,82,1,0,0,0
+10.42.0.151-123.125.115.164-46059-443-6,21,male,standard,some high school,Comm&Mgmt,group B,completed,65,66,62,2,0,0,1
+172.217.10.110-10.42.0.42-443-57515-6,22,female,standard,master's degree,Comm&Mgmt,group E,completed,63,72,70,0,0,0,1
+10.42.0.151-95.213.11.181-33809-80-6,22,female,free/reduced,master's degree,Comm&Mgmt,group D,none,58,67,62,0,0,1,1
+180.163.255.159-10.42.0.42-443-50712-6,21,female,standard,bachelor's degree,Sci&Tech,group D,none,65,67,62,0,0,1,1
+10.42.0.211-10.42.0.1-42914-53-17,23,male,standard,master's degree,Comm&Mgmt,group B,none,79,67,67,0,0,0,0
+172.217.10.106-10.42.0.151-443-48577-6,23,male,standard,bachelor's degree,Comm&Mgmt,group D,completed,68,74,74,0,0,0,0
+151.101.45.140-10.42.0.211-443-48539-6,23,female,standard,associate's degree,Comm&Mgmt,group D,none,85,91,89,1,0,0,1
+173.194.204.188-10.42.0.211-5228-55354-6,24,male,standard,high school,Sci&Tech,group B,completed,60,44,47,2,0,0,1
+140.205.94.6-10.42.0.211-443-53616-6,23,male,standard,master's degree,Comm&Mgmt,group C,completed,98,86,90,0,1,1,1
+10.42.0.211-117.121.27.13-42566-80-6,23,female,standard,master's degree,Sci&Tech,group C,none,58,67,72,1,0,0,1
+172.217.8.3-10.42.0.211-80-33195-6,24,female,standard,master's degree,Sci&Tech,group D,none,87,100,100,0,0,1,0
+180.149.136.194-10.42.0.211-443-35865-6,24,male,standard,associate's degree,Comm&Mgmt,group E,completed,66,63,64,1,0,0,0
+156.154.202.36-10.42.0.151-443-41645-6,24,female,free/reduced,associate's degree,Comm&Mgmt,group B,none,52,76,70,1,0,0,1
+10.42.0.1-10.42.0.42-53-34364-17,23,female,standard,some high school,Sci&Tech,group B,none,70,64,72,1,0,1,0
+172.217.10.230-10.42.0.211-443-59275-6,23,female,free/reduced,associate's degree,Sci&Tech,group D,completed,77,89,98,1,0,0,0
+203.205.158.63-10.42.0.211-80-46375-6,24,male,standard,high school,Sci&Tech,group C,none,62,55,49,1,0,1,0
+173.241.242.143-10.42.0.151-443-52167-6,24,male,standard,associate's degree,Comm&Mgmt,group A,none,54,53,47,0,0,1,1
+10.42.0.211-10.42.0.1-63171-53-17,23,female,standard,master's degree,Comm&Mgmt,group D,none,51,58,54,1,0,1,0
+174.35.73.149-10.42.0.211-80-54859-6,24,female,standard,bachelor's degree,Comm&Mgmt,group E,completed,99,100,100,0,0,0,0
+172.217.8.3-10.42.0.211-443-49569-6,23,male,standard,high school,Comm&Mgmt,group C,none,84,77,74,0,0,0,1
+172.217.3.110-10.42.0.151-443-59847-6,23,female,free/reduced,bachelor's degree,Comm&Mgmt,group B,none,75,85,82,1,1,0,0
+172.217.10.34-10.42.0.211-443-42964-6,23,female,standard,bachelor's degree,Sci&Tech,group D,none,78,82,79,1,1,1,0
+239.255.255.250-10.42.0.1-1900-37494-17,24,female,standard,some high school,Sci&Tech,group D,none,51,63,61,3,0,1,0
+172.217.11.3-10.42.0.151-443-47221-6,23,female,standard,master's degree,Comm&Mgmt,group C,none,55,69,65,0,1,1,1
+10.42.0.151-10.42.0.1-60032-53-17,23,female,standard,bachelor's degree,Comm&Mgmt,group C,completed,79,92,89,2,0,1,1
+10.42.0.211-31.13.80.52-60843-443-6,23,male,standard,associate's degree,Sci&Tech,group B,completed,91,89,92,1,0,1,1
+10.42.0.211-54.192.37.187-49025-80-6,23,female,standard,master's degree,Comm&Mgmt,group C,completed,88,93,93,1,0,0,0
+182.22.25.124-10.42.0.151-443-56821-6,23,male,free/reduced,high school,Comm&Mgmt,group D,none,63,57,56,1,0,1,0
+202.77.129.150-10.42.0.42-443-59375-6,23,male,standard,master's degree,Others,group E,none,83,80,73,2,1,0,0
+10.42.0.211-87.240.165.80-45641-80-6,24,female,standard,high school,Comm&Mgmt,group B,none,87,95,86,1,0,0,0
+10.42.0.211-23.23.129.231-56234-443-6,24,male,standard,some high school,Sci&Tech,group B,none,72,68,67,1,0,0,1
+182.22.24.252-10.42.0.42-80-44312-6,24,male,standard,master's degree,Comm&Mgmt,group D,completed,65,77,74,2,0,1,0
+10.42.0.211-10.42.0.1-59100-53-17,24,male,standard,master's degree,Sci&Tech,group D,none,82,82,74,0,0,0,0
+10.42.0.211-23.194.141.143-59112-443-6,24,female,standard,bachelor's degree,Comm&Mgmt,group A,none,51,49,51,1,0,0,1
+208.80.154.224-10.42.0.211-443-47890-6,23,male,standard,master's degree,Comm&Mgmt,group D,none,89,84,82,0,1,0,0
+10.42.0.211-52.76.136.219-34988-80-6,23,male,free/reduced,some high school,Others,group C,completed,53,37,40,0,0,0,0
+10.42.0.211-123.125.115.164-46939-443-6,23,male,free/reduced,master's degree,Comm&Mgmt,group E,completed,87,74,70,1,1,1,0
+172.217.10.42-10.42.0.42-443-34097-6,24,female,standard,master's degree,Comm&Mgmt,group C,completed,75,81,84,1,0,0,1
+10.42.0.151-52.88.110.117-34209-443-6,23,male,free/reduced,bachelor's degree,Comm&Mgmt,group D,completed,74,79,75,1,1,1,0
+157.240.18.15-10.42.0.211-443-56466-6,24,male,standard,bachelor's degree,Comm&Mgmt,group C,none,58,55,48,0,0,1,0
+10.42.0.211-106.11.94.27-39160-443-6,24,male,standard,some high school,Comm&Mgmt,group B,completed,51,54,41,0,0,0,1
+10.42.0.211-104.193.88.109-35298-80-6,24,male,standard,high school,Comm&Mgmt,group E,none,70,55,56,0,0,1,0
+10.42.0.42-115.239.210.141-52033-80-6,23,female,standard,associate's degree,Sci&Tech,group C,none,59,66,67,0,0,1,0
+10.42.0.211-88.212.196.104-37051-443-6,24,male,standard,master's degree,Comm&Mgmt,group D,completed,71,61,69,0,1,1,0
+10.42.0.211-77.234.44.199-47955-80-6,23,female,standard,some high school,Comm&Mgmt,group D,none,76,72,71,1,0,1,0
+172.217.10.10-10.42.0.42-443-60959-6,23,female,free/reduced,master's degree,Comm&Mgmt,group C,none,59,62,64,0,0,0,1
+10.42.0.1-10.42.0.42-53-40904-17,24,female,free/reduced,master's degree,Sci&Tech,group E,completed,42,55,54,3,0,0,0
+203.205.158.63-10.42.0.211-80-38565-6,24,male,standard,high school,Comm&Mgmt,group A,none,57,43,47,2,0,0,0
+10.42.0.151-31.13.80.5-38931-443-6,24,male,standard,master's degree,Comm&Mgmt,group D,none,88,73,78,2,0,0,1
+10.42.0.211-23.219.23.167-53385-80-6,23,female,free/reduced,master's degree,Sci&Tech,group C,none,22,39,33,0,1,0,0
+182.22.24.252-10.42.0.151-443-38587-6,24,male,standard,some high school,Comm&Mgmt,group B,none,88,84,75,1,0,0,0
+157.240.18.19-10.42.0.211-443-52381-6,23,male,free/reduced,associate's degree,Comm&Mgmt,group C,none,73,68,66,0,1,0,0
+172.217.12.132-10.42.0.211-443-33360-6,23,female,standard,bachelor's degree,Others,group D,completed,68,75,81,0,0,0,0
+205.204.101.182-10.42.0.211-443-60121-6,24,male,free/reduced,associate's degree,Comm&Mgmt,group E,completed,100,100,93,1,0,0,0
+10.42.0.151-66.231.239.124-37683-80-6,23,male,standard,some high school,Sci&Tech,group A,completed,62,67,69,0,0,1,0
+174.35.73.110-10.42.0.211-80-34158-6,24,male,standard,bachelor's degree,Comm&Mgmt,group A,none,77,67,68,0,0,1,1
+10.42.0.151-69.147.82.60-41186-443-6,23,female,standard,associate's degree,Sci&Tech,group B,completed,59,70,66,1,0,1,0
+172.217.10.131-10.42.0.151-443-56465-6,23,male,standard,bachelor's degree,Sci&Tech,group D,none,54,49,47,2,0,1,1
+172.217.12.202-10.42.0.211-443-54414-6,24,male,standard,some high school,Comm&Mgmt,group D,none,62,67,61,0,0,1,0
+10.42.0.211-64.71.142.95-38449-443-6,24,female,standard,master's degree,Comm&Mgmt,group C,completed,70,89,88,2,0,1,1
+202.77.129.150-10.42.0.211-80-53575-6,23,female,free/reduced,high school,Sci&Tech,group E,completed,66,74,78,0,0,0,0
+10.42.0.1-10.42.0.42-53-46278-17,24,male,free/reduced,master's degree,Comm&Mgmt,group B,none,60,60,60,2,0,0,0
+10.42.0.211-66.102.255.61-58362-80-6,23,female,standard,associate's degree,Sci&Tech,group B,completed,61,86,87,1,0,0,0
+10.42.0.151-104.193.88.109-40161-80-6,24,male,free/reduced,associate's degree,Comm&Mgmt,group D,none,66,62,64,0,0,0,0
+10.42.0.151-52.84.134.181-54917-443-6,22,male,free/reduced,associate's degree,Sci&Tech,group B,completed,82,78,74,0,0,1,1
+10.42.0.151-14.17.42.57-33208-80-6,22,female,free/reduced,master's degree,Comm&Mgmt,group E,completed,75,88,85,0,1,1,1
+208.80.154.224-10.42.0.211-443-33429-6,22,male,free/reduced,master's degree,Comm&Mgmt,group B,none,49,53,52,1,0,0,0
+151.101.1.140-10.42.0.151-443-40609-6,21,male,standard,high school,Sci&Tech,group C,none,52,53,49,1,0,0,1
+10.42.0.211-103.7.30.118-57942-80-6,21,female,standard,master's degree,Comm&Mgmt,group E,none,81,92,91,3,1,1,1
+206.126.112.142-10.42.0.151-443-54566-6,21,female,standard,bachelor's degree,Comm&Mgmt,group C,completed,96,100,100,0,0,0,1
+10.42.0.211-10.42.0.1-21705-53-17,21,male,free/reduced,high school,Comm&Mgmt,group C,completed,53,51,51,0,0,0,1
+10.42.0.211-123.125.46.112-52984-80-6,21,female,free/reduced,master's degree,Sci&Tech,group B,completed,58,76,78,1,0,0,0
+10.42.0.42-52.84.1.250-35827-443-6,22,female,standard,high school,Comm&Mgmt,group B,completed,68,83,78,1,0,1,1
+10.42.0.211-10.42.0.1-37033-53-17,22,female,free/reduced,master's degree,Sci&Tech,group C,completed,67,75,70,1,0,1,0
+172.217.10.237-10.42.0.42-443-59846-6,21,male,standard,high school,Comm&Mgmt,group A,completed,72,73,74,1,0,0,0
+10.42.0.211-77.234.44.79-34122-443-6,21,male,standard,some high school,Comm&Mgmt,group E,none,94,88,78,2,0,1,0
+10.42.0.211-66.198.24.243-49085-80-6,21,female,standard,master's degree,Comm&Mgmt,group D,none,79,86,81,1,0,0,1
+10.42.0.211-66.198.24.243-48099-80-6,22,female,standard,associate's degree,Sci&Tech,group C,none,63,67,70,0,0,1,0
+10.42.0.211-10.42.0.1-30970-53-17,22,female,free/reduced,bachelor's degree,Sci&Tech,group C,completed,43,51,54,0,0,1,0
+222.73.28.96-10.42.0.42-80-56096-6,21,female,standard,master's degree,Sci&Tech,group C,completed,81,91,87,0,0,0,1
+10.42.0.211-10.42.0.1-47044-53-17,21,female,free/reduced,high school,Comm&Mgmt,group B,completed,46,54,58,0,0,1,0
+220.181.7.190-10.42.0.211-443-36553-6,22,female,standard,associate's degree,Comm&Mgmt,group C,completed,71,77,77,1,1,1,0
+10.42.0.151-10.42.0.1-46041-53-17,22,female,free/reduced,master's degree,Sci&Tech,group B,completed,52,70,62,1,0,0,0
+172.217.19.195-10.42.0.151-443-52855-6,21,female,standard,some high school,Sci&Tech,group D,completed,97,100,100,1,1,1,0
+10.42.0.211-52.84.29.55-45129-443-6,22,male,free/reduced,master's degree,Comm&Mgmt,group C,completed,62,68,75,1,1,1,1
+172.217.11.35-10.42.0.151-443-48860-6,22,female,free/reduced,master's degree,Sci&Tech,group C,none,46,64,66,2,0,1,0
+10.42.0.1-10.42.0.42-53-19781-17,21,female,standard,high school,Others,group E,none,50,50,47,1,0,0,0
+10.42.0.211-36.51.254.232-56570-443-6,22,female,standard,associate's degree,Comm&Mgmt,group D,none,65,69,70,0,0,0,1
+216.58.212.131-10.42.0.42-443-59811-6,21,male,free/reduced,some high school,Comm&Mgmt,group C,completed,45,52,49,2,0,0,0
+180.163.255.159-10.42.0.151-443-54087-6,22,male,free/reduced,associate's degree,Others,group C,completed,65,67,65,1,0,0,0
+10.42.0.151-106.39.169.66-52302-80-6,21,male,standard,high school,Comm&Mgmt,group E,none,80,76,65,1,1,1,0
+180.149.136.247-10.42.0.42-80-45852-6,21,male,standard,some high school,Sci&Tech,group D,completed,62,66,68,1,0,1,0
+10.42.0.211-106.11.92.16-36113-443-6,22,male,free/reduced,some high school,Comm&Mgmt,group B,none,48,52,45,1,1,1,0
+10.42.0.42-47.89.69.218-56730-443-6,21,female,standard,bachelor's degree,Comm&Mgmt,group C,none,77,88,87,0,0,0,0
+10.42.0.211-121.12.98.64-40866-80-6,22,female,standard,associate's degree,Comm&Mgmt,group E,none,66,65,69,0,0,0,1
+10.42.0.151-10.42.0.1-41916-53-17,22,male,standard,master's degree,Comm&Mgmt,group D,completed,76,83,79,0,0,0,0
+216.58.219.234-10.42.0.151-443-40262-6,21,female,standard,some high school,Comm&Mgmt,group B,none,62,64,66,0,1,1,1
+173.194.204.188-10.42.0.151-5228-60764-6,21,male,standard,master's degree,Others,group D,completed,77,62,62,0,0,1,0
+10.42.0.211-103.7.30.118-56683-80-6,21,female,standard,master's degree,Comm&Mgmt,group C,completed,69,84,85,0,0,0,1
+205.185.216.42-10.42.0.42-80-51617-6,22,male,standard,associate's degree,Comm&Mgmt,group D,none,61,55,52,1,1,0,0
+10.42.0.211-104.192.110.245-53575-80-6,21,male,free/reduced,some high school,Sci&Tech,group C,completed,59,69,65,2,1,1,0
+172.217.12.206-10.42.0.151-443-44129-6,21,male,free/reduced,high school,Sci&Tech,group E,none,55,56,51,1,1,0,0
+10.42.0.211-10.42.0.1-63150-53-17,22,female,free/reduced,master's degree,Others,group B,none,45,53,55,2,1,0,0
+202.77.129.161-10.42.0.151-80-51280-6,21,female,free/reduced,bachelor's degree,Comm&Mgmt,group B,none,78,79,76,0,0,0,1
+10.42.0.211-111.221.77.172-60774-443-17,21,female,standard,associate's degree,Comm&Mgmt,group C,completed,67,84,86,2,0,1,0
+172.217.0.226-10.42.0.211-443-41678-6,22,female,free/reduced,master's degree,Comm&Mgmt,group D,none,65,81,77,1,0,1,0
+173.194.206.156-10.42.0.211-443-52016-6,21,male,standard,associate's degree,Sci&Tech,group C,none,69,77,69,2,1,1,0
+10.42.0.151-10.42.0.1-5992-53-17,21,female,standard,associate's degree,Comm&Mgmt,group B,none,57,69,68,1,0,1,1
+10.42.0.151-54.192.38.65-43750-443-6,21,male,standard,master's degree,Comm&Mgmt,group C,none,59,41,42,1,1,1,0
+10.42.0.151-104.43.254.159-43659-443-6,21,male,standard,some high school,Comm&Mgmt,group D,completed,74,71,78,0,1,1,0
+10.42.0.151-52.173.205.111-35623-443-6,22,male,standard,bachelor's degree,Comm&Mgmt,group E,none,82,62,62,0,1,1,1
+183.79.250.251-10.42.0.151-443-36771-6,22,male,standard,high school,Comm&Mgmt,group E,completed,81,80,76,1,0,1,0
+203.130.53.126-10.42.0.211-80-50486-6,21,female,free/reduced,master's degree,Comm&Mgmt,group B,none,74,81,76,0,0,1,0
+172.217.12.142-10.42.0.42-80-49005-6,21,female,free/reduced,master's degree,Comm&Mgmt,group B,none,58,61,66,0,0,1,0
+169.47.42.203-10.42.0.42-443-45980-6,21,male,free/reduced,some high school,Comm&Mgmt,group D,completed,80,79,79,2,0,1,0
+172.217.10.42-10.42.0.42-443-43942-6,21,male,free/reduced,master's degree,Sci&Tech,group C,none,35,28,27,1,0,1,1
+10.42.0.211-101.227.14.98-42775-80-6,22,female,free/reduced,high school,Comm&Mgmt,group C,none,42,62,60,0,0,1,0
+216.58.219.202-10.42.0.151-443-44686-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group C,completed,60,51,56,1,0,1,0
+10.42.0.42-108.174.10.10-42841-443-6,21,male,standard,high school,Comm&Mgmt,group E,completed,87,91,81,1,0,0,1
+10.42.0.211-23.208.168.108-41282-443-6,21,male,standard,some high school,Comm&Mgmt,group B,completed,84,83,75,1,0,1,0
+219.142.78.162-10.42.0.151-80-54646-6,21,female,free/reduced,associate's degree,Comm&Mgmt,group E,completed,83,86,88,3,0,1,0
+162.208.22.39-10.42.0.151-443-54608-6,21,female,free/reduced,high school,Others,group C,none,34,42,39,1,1,0,0
+172.217.11.3-10.42.0.42-443-52108-6,22,male,free/reduced,high school,Comm&Mgmt,group B,none,66,77,70,1,0,0,0
+10.42.0.151-10.42.0.1-28090-53-17,21,male,standard,some high school,Sci&Tech,group B,completed,61,56,56,2,1,1,0
+10.42.0.211-123.125.29.220-37911-80-6,22,female,standard,high school,Comm&Mgmt,group D,completed,56,68,74,1,0,1,0
+10.42.0.151-10.42.0.1-33030-53-17,22,male,standard,associate's degree,Comm&Mgmt,group B,none,87,85,73,2,0,1,1
+172.217.5.228-10.42.0.151-443-58943-6,21,female,free/reduced,some high school,Comm&Mgmt,group C,none,55,65,62,1,1,1,0
+10.42.0.42-106.39.162.36-41049-80-6,22,male,standard,some high school,Comm&Mgmt,group D,none,86,80,75,0,0,1,1
+10.42.0.42-106.39.169.66-43528-443-6,22,female,standard,associate's degree,Comm&Mgmt,group B,completed,52,66,73,0,0,1,0
+10.42.0.42-123.125.29.220-55722-80-6,21,female,free/reduced,master's degree,Others,group E,none,45,56,54,0,1,0,1
+169.55.67.237-10.42.0.211-5222-46721-6,21,female,standard,master's degree,Comm&Mgmt,group C,none,72,72,71,1,1,1,0
+172.217.10.110-10.42.0.151-443-59772-6,21,male,standard,high school,Comm&Mgmt,group D,none,57,50,54,2,0,1,0
+206.126.112.141-10.42.0.42-443-52954-6,21,male,free/reduced,some high school,Sci&Tech,group A,none,68,72,64,1,1,1,0
+205.204.101.196-10.42.0.211-443-40740-6,22,female,standard,master's degree,Sci&Tech,group C,completed,88,95,94,0,1,1,0
+173.194.66.188-10.42.0.151-5228-51776-6,22,male,standard,master's degree,Others,group D,none,76,64,66,1,0,1,0
+10.42.0.211-64.71.142.124-43396-443-6,22,male,standard,associate's degree,Comm&Mgmt,group C,none,46,43,42,1,0,1,0
+10.42.0.211-23.23.129.231-39028-443-6,21,female,standard,bachelor's degree,Comm&Mgmt,group B,none,67,86,83,0,0,1,1
+198.11.132.221-10.42.0.211-443-39949-6,22,male,standard,some high school,Comm&Mgmt,group E,none,92,87,78,1,0,1,0
+175.100.207.232-10.42.0.42-80-40335-6,21,male,standard,bachelor's degree,Sci&Tech,group C,completed,83,82,84,0,0,1,0
+182.22.31.252-10.42.0.211-443-48462-6,22,male,standard,associate's degree,Others,group D,none,80,75,77,1,0,1,0
+157.55.130.155-10.42.0.211-40008-60774-17,22,male,free/reduced,bachelor's degree,Comm&Mgmt,group D,none,63,66,67,1,0,0,1
+10.42.0.211-31.13.71.52-34886-443-6,21,female,standard,some high school,Sci&Tech,group D,completed,64,60,74,2,0,1,1
+10.42.0.211-119.146.74.33-45946-443-6,21,male,standard,master's degree,Comm&Mgmt,group B,none,54,52,51,1,1,0,1
+172.217.7.228-10.42.0.151-443-38793-6,21,male,standard,associate's degree,Comm&Mgmt,group C,none,84,80,80,1,1,1,0
+10.42.0.211-23.21.172.210-36346-443-6,22,male,free/reduced,high school,Comm&Mgmt,group D,completed,73,68,66,1,0,1,0
+205.204.101.47-10.42.0.42-443-54225-6,22,female,standard,bachelor's degree,Comm&Mgmt,group E,none,80,83,83,0,1,0,0
+174.35.73.107-10.42.0.211-80-38981-6,21,female,standard,high school,Comm&Mgmt,group D,none,56,52,55,2,1,0,0
+151.101.21.140-10.42.0.211-443-45852-6,22,male,standard,master's degree,Comm&Mgmt,group E,none,59,51,43,0,1,1,1
+10.42.0.211-52.26.15.212-32774-443-6,21,male,standard,some high school,Comm&Mgmt,group D,none,75,74,69,1,0,0,0
+172.217.11.46-10.42.0.42-80-53519-6,21,male,standard,associate's degree,Comm&Mgmt,group C,none,85,76,71,2,0,0,0
+172.217.12.206-10.42.0.151-443-34073-6,21,male,standard,associate's degree,Comm&Mgmt,group E,none,89,76,74,1,1,1,1
+10.42.0.151-10.42.0.1-8691-53-17,22,female,standard,high school,Sci&Tech,group B,completed,58,70,68,0,0,1,0
+10.42.0.211-65.55.223.31-60774-40015-17,22,female,standard,high school,Comm&Mgmt,group B,none,65,64,62,1,0,1,0
+172.217.6.206-10.42.0.42-443-59545-6,22,male,standard,high school,Comm&Mgmt,group C,none,68,60,53,0,0,1,0
+182.22.25.252-10.42.0.211-443-38735-6,21,male,standard,some high school,Comm&Mgmt,group A,completed,47,49,49,3,0,1,1
+10.42.0.211-23.194.142.7-36997-443-6,21,female,free/reduced,master's degree,Sci&Tech,group D,none,71,83,83,0,0,1,0
+183.56.172.140-10.42.0.151-80-59439-6,22,female,standard,some high school,Comm&Mgmt,group B,completed,60,70,70,0,0,0,0
+172.217.3.110-10.42.0.151-443-56137-6,22,male,standard,master's degree,Sci&Tech,group D,none,80,80,72,1,0,0,1
+10.42.0.151-10.42.0.1-28905-53-17,22,male,standard,high school,Sci&Tech,group D,none,54,52,52,1,1,1,0
+172.217.10.10-10.42.0.151-443-58552-6,22,female,standard,master's degree,Comm&Mgmt,group E,none,62,73,70,1,1,1,0
+172.217.12.202-10.42.0.151-443-49016-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group C,none,64,73,68,1,1,0,0
+10.42.0.151-61.135.185.139-49807-80-6,21,male,standard,associate's degree,Sci&Tech,group C,completed,78,77,77,2,0,1,0
+10.42.0.42-104.254.66.16-56932-80-6,22,female,standard,master's degree,Sci&Tech,group B,none,70,75,78,1,0,1,1
+183.79.249.252-10.42.0.211-443-32873-6,22,female,free/reduced,master's degree,Sci&Tech,group C,completed,65,81,81,0,0,1,0
+10.42.0.211-54.236.100.208-40077-443-6,22,female,free/reduced,some high school,Comm&Mgmt,group C,completed,64,79,77,1,1,1,0
+183.136.237.235-10.42.0.211-80-46162-6,21,male,standard,master's degree,Comm&Mgmt,group C,completed,79,79,78,1,0,1,1
+172.217.12.195-10.42.0.151-443-56454-6,21,female,free/reduced,some high school,Comm&Mgmt,group C,none,44,50,51,1,0,0,0
+157.240.18.19-10.42.0.211-443-59001-6,22,female,standard,high school,Comm&Mgmt,group E,none,99,93,90,0,1,0,0
+221.228.208.97-10.42.0.42-80-39668-6,21,male,standard,high school,Comm&Mgmt,group D,none,76,73,68,0,0,0,0
+10.42.0.211-10.42.0.1-52792-53-17,21,male,free/reduced,some high school,Sci&Tech,group D,none,59,42,41,1,0,0,0
+180.163.255.159-10.42.0.211-80-48966-6,21,female,standard,bachelor's degree,Sci&Tech,group C,none,63,75,81,1,0,1,0
+10.42.0.211-31.13.69.229-47392-443-6,22,female,standard,high school,Comm&Mgmt,group D,none,69,72,77,1,1,0,0
+10.42.0.211-77.234.44.201-42601-80-6,21,female,standard,associate's degree,Comm&Mgmt,group D,completed,88,92,95,1,0,1,1
+192.229.173.173-10.42.0.211-80-44540-6,22,female,free/reduced,master's degree,Sci&Tech,group E,none,71,76,70,2,0,1,0
+10.42.0.151-10.42.0.1-59171-53-17,21,male,standard,bachelor's degree,Comm&Mgmt,group C,none,69,63,61,0,1,1,1
+10.42.0.211-10.42.0.1-22651-53-17,22,male,standard,master's degree,Comm&Mgmt,group C,none,58,49,42,1,1,1,0
+183.79.250.251-10.42.0.151-443-37631-6,21,female,free/reduced,associate's degree,Others,group D,none,47,53,58,0,0,0,1
+192.229.173.173-10.42.0.151-80-39779-6,22,female,standard,master's degree,Comm&Mgmt,group D,none,65,70,71,0,0,1,0
+202.77.129.150-10.42.0.151-80-39297-6,21,male,standard,master's degree,Sci&Tech,group B,completed,88,85,76,1,0,0,0
+205.204.101.182-10.42.0.211-443-55476-6,22,male,standard,bachelor's degree,Comm&Mgmt,group C,none,83,78,73,0,1,1,0
+10.42.0.255-10.42.0.1-8612-8612-17,21,female,standard,some high school,Sci&Tech,group C,completed,85,92,93,0,0,1,0
+182.22.31.252-10.42.0.211-443-54130-6,21,female,standard,high school,Comm&Mgmt,group E,completed,59,63,75,1,1,1,1
+172.217.10.106-10.42.0.211-443-38988-6,21,female,free/reduced,some high school,Comm&Mgmt,group C,none,65,86,80,1,0,1,1
+192.229.173.173-10.42.0.211-80-39739-6,21,male,free/reduced,bachelor's degree,Others,group B,none,73,56,57,0,0,1,0
+10.42.0.151-74.125.29.113-44129-443-6,21,male,standard,high school,Comm&Mgmt,group D,none,53,52,42,2,0,1,1
+10.42.0.211-66.102.255.61-38596-443-6,22,male,standard,high school,Comm&Mgmt,group D,none,45,48,46,1,1,1,1
+10.42.0.151-10.42.0.1-17576-53-17,21,female,free/reduced,bachelor's degree,Comm&Mgmt,group D,none,73,79,84,0,1,1,1
+10.42.0.211-10.42.0.1-33458-53-17,21,female,free/reduced,master's degree,Comm&Mgmt,group D,completed,70,78,78,0,1,0,1
+10.42.0.211-10.42.0.1-24499-53-17,22,female,standard,some high school,Comm&Mgmt,group B,none,37,46,46,0,0,1,0
+180.149.136.194-10.42.0.151-80-54144-6,21,male,standard,associate's degree,Comm&Mgmt,group B,completed,81,82,82,1,1,0,1
+10.42.0.211-10.42.0.1-25526-53-17,21,male,standard,associate's degree,Sci&Tech,group E,completed,97,82,88,2,1,1,0
+10.42.0.211-106.11.135.2-54385-80-6,22,female,standard,some high school,Comm&Mgmt,group B,none,67,89,82,0,0,1,0
+10.42.0.1-10.42.0.42-53-35214-17,21,male,free/reduced,bachelor's degree,Comm&Mgmt,group B,none,88,75,76,0,0,1,0
+10.42.0.151-10.42.0.1-38991-53-17,22,male,standard,some high school,Comm&Mgmt,group E,completed,77,76,77,0,0,1,1
+10.42.0.211-77.234.42.92-50874-443-6,22,male,standard,associate's degree,Sci&Tech,group C,none,76,70,68,0,0,1,0
+10.42.0.42-106.39.169.66-57125-80-6,22,male,standard,some high school,Comm&Mgmt,group D,none,86,73,70,1,1,1,0
+10.42.0.211-66.231.239.122-44738-80-6,22,male,standard,some high school,Comm&Mgmt,group C,completed,63,60,57,2,1,1,1
+10.42.0.151-31.13.80.52-55511-80-6,22,female,standard,bachelor's degree,Sci&Tech,group E,none,65,73,75,0,0,0,0
+172.217.5.227-10.42.0.211-443-44323-6,21,male,free/reduced,high school,Comm&Mgmt,group D,completed,78,77,80,0,0,1,0
+10.42.0.42-64.71.142.95-48476-443-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group B,none,67,62,60,0,0,0,0
+172.217.9.237-10.42.0.42-443-45324-6,22,male,standard,some high school,Others,group A,completed,46,41,43,2,0,0,0
+10.42.0.151-40.117.100.83-36994-443-6,22,male,standard,associate's degree,Comm&Mgmt,group E,completed,71,74,68,2,0,0,1
+172.217.3.110-10.42.0.211-443-40560-6,22,male,free/reduced,high school,Sci&Tech,group C,completed,40,46,50,1,1,1,0
+10.42.0.1-10.42.0.42-53-5458-17,21,male,free/reduced,associate's degree,Comm&Mgmt,group D,none,90,87,75,2,0,1,0
+10.42.0.211-98.139.199.204-41286-443-6,22,male,free/reduced,master's degree,Sci&Tech,group A,completed,81,78,81,0,0,1,1
+174.35.73.149-10.42.0.211-80-59293-6,22,male,free/reduced,some high school,Sci&Tech,group D,none,56,54,52,1,0,1,0
+172.217.12.196-10.42.0.211-443-57526-6,21,female,standard,associate's degree,Comm&Mgmt,group C,completed,67,84,81,0,0,0,0
+10.42.0.211-10.42.0.1-65082-53-17,21,male,standard,associate's degree,Comm&Mgmt,group B,none,80,76,64,0,0,0,0
+10.42.0.42-104.244.42.65-48234-80-6,22,female,standard,associate's degree,Sci&Tech,group C,completed,74,75,83,1,0,1,0
+173.241.242.143-10.42.0.42-443-52397-6,22,male,standard,master's degree,Comm&Mgmt,group A,none,69,67,69,0,0,1,0
+172.217.12.163-10.42.0.211-443-43530-6,22,male,standard,master's degree,Sci&Tech,group E,completed,99,87,81,2,0,1,0
+10.42.0.151-106.39.169.66-44473-80-6,22,male,standard,some high school,Comm&Mgmt,group C,none,51,52,44,0,0,1,1
+10.42.0.211-104.254.66.16-48279-80-6,22,female,free/reduced,associate's degree,Sci&Tech,group B,none,53,71,67,1,1,1,0
+162.208.22.39-10.42.0.211-443-35853-6,21,female,free/reduced,high school,Comm&Mgmt,group D,none,49,57,52,0,0,1,1
+172.217.12.193-10.42.0.42-443-37285-6,21,female,standard,associate's degree,Comm&Mgmt,group B,none,73,76,80,1,0,1,0
+162.208.22.39-10.42.0.151-443-55412-6,22,male,standard,bachelor's degree,Sci&Tech,group B,none,66,60,57,2,0,1,1
+10.42.0.211-10.42.0.1-53109-53-17,22,male,standard,bachelor's degree,Comm&Mgmt,group D,completed,67,61,68,1,1,1,0
+10.42.0.42-103.43.91.12-55284-443-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group C,completed,68,67,69,0,0,1,0
+10.42.0.211-103.235.46.211-43529-443-6,22,female,standard,bachelor's degree,Comm&Mgmt,group C,completed,59,64,75,0,1,1,0
+10.42.0.211-69.147.89.13-50047-443-6,22,male,standard,high school,Sci&Tech,group C,none,71,66,65,0,0,1,0
+10.42.0.211-10.42.0.1-40514-53-17,22,female,standard,master's degree,Comm&Mgmt,group D,completed,77,82,91,0,0,1,1
+10.42.0.211-115.239.210.141-44620-80-6,22,male,standard,associate's degree,Sci&Tech,group C,none,83,72,78,1,0,1,0
+10.42.0.211-10.42.0.1-41677-53-17,21,male,standard,bachelor's degree,Comm&Mgmt,group B,none,63,71,69,0,1,1,0
+208.80.154.224-10.42.0.211-443-57831-6,21,female,free/reduced,associate's degree,Comm&Mgmt,group D,none,56,65,63,1,0,1,0
+172.217.12.142-10.42.0.151-443-43692-6,21,female,free/reduced,high school,Comm&Mgmt,group C,completed,67,79,84,0,0,1,1
+180.149.136.194-10.42.0.211-80-52232-6,21,female,standard,high school,Sci&Tech,group E,none,75,86,79,0,0,0,0
+10.42.0.211-66.231.239.95-46115-443-6,21,female,standard,master's degree,Sci&Tech,group C,none,71,81,80,2,0,0,0
+172.217.10.14-10.42.0.42-443-49244-6,22,female,free/reduced,some high school,Sci&Tech,group C,none,43,53,53,0,1,1,1
+192.229.163.180-10.42.0.211-443-41122-6,21,female,free/reduced,high school,Comm&Mgmt,group C,none,41,46,43,1,1,1,0
+10.42.0.151-104.244.43.131-49746-443-6,22,female,standard,master's degree,Comm&Mgmt,group C,none,82,90,94,0,0,1,0
+10.42.0.211-50.18.174.184-56817-443-6,21,male,standard,master's degree,Sci&Tech,group C,none,61,61,62,1,0,1,0
+10.42.0.211-54.192.36.192-42888-443-6,21,male,free/reduced,master's degree,Sci&Tech,group A,none,28,23,19,0,0,0,0
+151.101.1.140-10.42.0.211-443-34098-6,22,male,standard,associate's degree,Comm&Mgmt,group C,completed,82,75,77,1,1,0,0
+10.42.0.211-77.234.42.92-42405-443-6,22,female,standard,some high school,Sci&Tech,group B,none,41,55,51,0,0,1,0
+172.217.10.78-10.42.0.151-443-36061-6,21,male,standard,high school,Others,group C,none,71,60,61,1,0,1,1
+10.42.0.42-36.110.213.49-44115-443-6,22,male,standard,associate's degree,Comm&Mgmt,group C,none,47,37,35,0,0,0,0
+172.217.10.142-10.42.0.151-80-43568-6,22,male,standard,associate's degree,Comm&Mgmt,group E,completed,62,56,53,0,0,0,0
+10.42.0.211-108.179.252.22-53530-80-6,21,male,standard,associate's degree,Others,group B,none,90,78,81,0,0,1,0
+10.42.0.211-98.139.199.204-56348-443-6,22,female,standard,bachelor's degree,Comm&Mgmt,group C,none,83,93,95,0,1,1,1
+220.243.219.55-10.42.0.42-80-48091-6,22,female,free/reduced,master's degree,Sci&Tech,group B,none,61,68,66,0,1,1,1
+10.42.0.211-66.198.24.240-33194-80-6,21,male,standard,some high school,Comm&Mgmt,group D,completed,76,70,69,0,0,0,1
+10.42.0.211-64.71.142.125-47202-443-6,21,male,standard,associate's degree,Comm&Mgmt,group C,none,49,51,43,1,0,1,0
+10.42.0.151-72.21.207.148-35455-443-6,22,female,free/reduced,some high school,Comm&Mgmt,group B,none,24,38,27,2,1,1,0
+10.42.0.151-104.244.43.99-41250-443-6,22,female,free/reduced,some high school,Comm&Mgmt,group D,completed,35,55,60,0,0,1,0
+10.42.0.42-104.192.110.245-53717-80-6,21,male,free/reduced,high school,Comm&Mgmt,group C,none,58,61,52,1,0,1,0
+10.42.0.211-59.38.112.48-40129-443-6,22,female,standard,high school,Others,group C,none,61,73,63,0,0,1,1
+203.90.242.126-10.42.0.211-80-58187-6,21,female,standard,high school,Comm&Mgmt,group B,completed,69,76,74,0,0,1,0
+172.217.12.195-10.42.0.42-443-47263-6,22,male,standard,associate's degree,Comm&Mgmt,group D,completed,67,72,67,1,0,0,0
+10.42.0.211-10.42.0.1-1519-53-17,22,male,standard,master's degree,Sci&Tech,group D,none,79,73,67,1,0,1,1
+172.217.10.106-10.42.0.211-443-51779-6,22,female,standard,high school,Sci&Tech,group C,none,72,80,75,0,1,1,0
+172.217.12.195-10.42.0.211-443-34404-6,21,male,standard,master's degree,Others,group B,none,62,61,57,0,1,0,0
+10.42.0.42-23.217.155.120-44288-80-6,21,female,standard,bachelor's degree,Comm&Mgmt,group C,completed,77,94,95,1,0,1,0
+10.42.0.211-104.244.43.3-49157-443-6,21,male,free/reduced,high school,Comm&Mgmt,group D,none,75,74,66,0,0,1,1
+10.42.0.211-54.230.51.73-58848-80-6,22,male,standard,associate's degree,Comm&Mgmt,group E,none,87,74,76,1,1,1,0
+10.42.0.151-104.244.43.195-40364-443-6,22,female,standard,bachelor's degree,Sci&Tech,group B,none,52,65,69,1,0,1,0
+10.42.0.211-23.206.166.66-47498-80-6,21,male,standard,master's degree,Comm&Mgmt,group E,none,66,57,52,1,1,0,1
+157.55.130.167-10.42.0.151-40019-48848-6,21,female,standard,master's degree,Comm&Mgmt,group C,completed,63,78,80,0,1,0,0
+10.42.0.42-47.89.69.217-46952-80-6,21,female,standard,associate's degree,Comm&Mgmt,group C,none,46,58,57,0,0,1,0
+10.42.0.151-103.235.46.212-55190-443-6,22,female,standard,master's degree,Comm&Mgmt,group C,none,59,71,70,0,0,0,0
+172.217.6.194-10.42.0.211-443-60344-6,22,female,standard,bachelor's degree,Comm&Mgmt,group B,none,61,72,70,0,0,1,0
+10.42.0.211-52.52.43.76-44578-443-6,21,male,standard,associate's degree,Comm&Mgmt,group A,none,63,61,61,2,0,0,1
+10.42.0.42-36.110.213.49-42610-80-6,22,female,free/reduced,master's degree,Comm&Mgmt,group C,completed,42,66,69,0,0,1,0
+151.101.21.140-10.42.0.211-80-35804-6,21,male,free/reduced,master's degree,Comm&Mgmt,group D,none,59,62,61,1,0,1,0
+10.42.0.1-10.42.0.42-53-58923-17,22,female,standard,master's degree,Sci&Tech,group D,none,80,90,89,0,1,0,1
+172.217.3.110-10.42.0.42-443-34279-6,22,female,standard,high school,Comm&Mgmt,group B,none,58,62,59,0,0,1,0
+10.42.0.151-108.174.11.1-39085-80-6,21,male,standard,some high school,Comm&Mgmt,group B,completed,85,84,78,1,0,1,0
+10.42.0.211-23.206.166.66-34027-80-6,22,female,standard,master's degree,Comm&Mgmt,group C,none,52,58,58,0,0,1,0
+10.42.0.151-10.42.0.1-57527-53-17,21,female,free/reduced,some high school,Comm&Mgmt,group D,none,27,34,32,0,0,0,0
+172.217.12.142-10.42.0.211-443-56154-6,21,male,standard,master's degree,Comm&Mgmt,group C,none,59,60,58,1,0,1,0
+174.35.73.136-10.42.0.211-443-53187-6,22,male,free/reduced,bachelor's degree,Others,group A,completed,49,58,60,0,0,0,0
+10.42.0.211-64.71.142.110-42651-80-6,22,male,standard,high school,Comm&Mgmt,group C,completed,69,58,53,1,0,0,1
+174.129.31.175-10.42.0.211-443-33615-6,21,male,free/reduced,bachelor's degree,Sci&Tech,group C,none,61,66,61,0,0,1,0
+10.42.0.211-36.110.213.49-41635-443-6,21,female,free/reduced,some high school,Comm&Mgmt,group A,none,44,64,58,0,0,0,1
+10.42.0.211-104.97.95.172-43866-80-6,21,female,standard,some high school,Comm&Mgmt,group D,none,73,84,85,0,0,1,0
+10.42.0.42-66.102.255.61-47334-443-6,22,male,standard,master's degree,Comm&Mgmt,group E,none,84,77,71,2,0,1,1
+10.42.0.211-123.125.29.138-46657-80-6,21,female,free/reduced,master's degree,Comm&Mgmt,group C,completed,45,73,70,1,1,0,0
+172.217.11.10-10.42.0.211-443-52664-6,22,male,standard,some high school,Comm&Mgmt,group D,none,74,74,72,0,0,0,0
+172.217.12.206-10.42.0.151-443-56498-6,22,female,standard,master's degree,Others,group D,completed,82,97,96,0,0,1,0
+173.241.242.143-10.42.0.151-443-52167-6,22,female,standard,bachelor's degree,Comm&Mgmt,group D,none,59,70,73,1,1,1,0
+10.42.0.211-10.42.0.1-61196-53-17,22,male,free/reduced,associate's degree,Comm&Mgmt,group E,none,46,43,41,0,0,1,1
+10.42.0.42-23.192.4.224-34391-80-6,21,female,standard,some high school,Others,group D,none,80,90,82,0,1,1,1
+222.73.28.96-10.42.0.151-80-55804-6,21,female,free/reduced,master's degree,Comm&Mgmt,group D,completed,85,95,100,0,0,0,0
+10.42.0.151-40.78.68.158-38528-443-6,21,female,standard,some high school,Sci&Tech,group A,none,71,83,77,1,1,1,1
+172.217.7.195-10.42.0.211-443-37278-6,22,male,standard,bachelor's degree,Comm&Mgmt,group A,none,66,64,62,0,0,1,1
+10.42.0.211-64.71.142.124-54514-443-6,21,female,standard,associate's degree,Comm&Mgmt,group B,none,80,86,83,0,0,1,1
+10.42.0.211-107.20.205.68-59502-443-6,22,male,standard,associate's degree,Comm&Mgmt,group C,completed,87,100,95,0,0,1,1
+172.217.12.170-10.42.0.151-443-44855-6,21,male,free/reduced,master's degree,Comm&Mgmt,group C,none,79,81,71,0,0,1,0
+10.42.0.211-106.11.92.14-48358-443-6,21,female,free/reduced,some high school,Comm&Mgmt,group E,none,38,49,45,1,1,0,1
+172.217.3.106-10.42.0.211-443-46922-6,22,female,free/reduced,some high school,Comm&Mgmt,group A,none,38,43,43,1,0,0,0
+10.42.0.211-10.42.0.1-35670-53-17,21,female,standard,master's degree,Comm&Mgmt,group E,none,67,76,75,0,0,1,0
+10.42.0.151-64.71.142.124-45312-443-6,21,female,standard,bachelor's degree,Comm&Mgmt,group E,none,64,73,70,1,0,1,0
+216.58.219.234-10.42.0.151-443-40262-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group C,none,57,78,67,1,1,1,1
+157.55.56.163-10.42.0.151-40027-43477-17,22,female,standard,high school,Sci&Tech,group D,none,62,64,64,0,0,0,0
+172.217.8.3-10.42.0.211-443-46466-6,22,male,standard,master's degree,Comm&Mgmt,group D,none,73,70,75,0,0,0,0
+10.42.0.211-10.42.0.1-10839-53-17,22,male,free/reduced,some high school,Comm&Mgmt,group E,completed,73,67,59,0,0,0,1
+219.142.78.162-10.42.0.151-443-46189-6,22,female,standard,master's degree,Comm&Mgmt,group D,none,77,68,77,0,1,1,0
+172.217.3.110-10.42.0.211-443-46827-6,21,male,standard,master's degree,Sci&Tech,group E,none,76,67,67,0,0,0,0
+10.42.0.42-52.84.40.147-41193-80-6,22,male,standard,associate's degree,Comm&Mgmt,group C,completed,57,54,56,1,0,1,0
+10.42.0.211-23.206.166.66-59803-80-6,21,female,standard,some high school,Sci&Tech,group C,completed,65,74,77,0,1,1,0
+172.217.12.206-10.42.0.151-443-47180-6,21,male,free/reduced,high school,Sci&Tech,group A,none,48,45,41,1,0,0,1
+10.42.0.211-23.21.95.195-44204-443-6,21,female,free/reduced,high school,Comm&Mgmt,group B,none,50,67,63,1,1,1,0
+10.42.0.42-123.125.29.220-46714-80-6,21,female,standard,associate's degree,Comm&Mgmt,group C,none,85,89,95,2,0,1,0
+172.217.9.234-10.42.0.151-443-36582-6,21,male,standard,some high school,Sci&Tech,group B,none,74,63,57,2,0,0,1
+10.42.0.211-52.20.190.244-51410-443-6,21,male,standard,some high school,Sci&Tech,group D,none,60,59,54,0,0,0,0
+10.42.0.211-66.102.255.61-50926-80-6,22,female,standard,some high school,Sci&Tech,group C,completed,59,54,67,0,0,0,0
+173.222.150.38-10.42.0.211-443-37092-6,22,male,standard,master's degree,Comm&Mgmt,group A,none,53,43,43,1,0,1,0
+10.42.0.211-10.42.0.1-3579-53-17,21,female,free/reduced,master's degree,Comm&Mgmt,group A,none,49,65,55,1,0,1,0
+180.149.134.142-10.42.0.211-80-32768-6,21,female,standard,high school,Comm&Mgmt,group D,completed,88,99,100,1,1,1,0
+10.42.0.211-103.235.46.211-56421-443-6,21,female,standard,high school,Comm&Mgmt,group C,none,54,59,62,0,1,1,0
+10.42.0.151-10.42.0.1-57068-53-17,22,female,standard,some high school,Comm&Mgmt,group C,none,63,73,68,1,0,0,1
+10.42.0.211-10.42.0.1-61816-53-17,21,male,standard,associate's degree,Sci&Tech,group B,completed,65,65,63,1,1,0,0
+172.217.7.10-10.42.0.211-443-53944-6,21,female,standard,associate's degree,Sci&Tech,group B,none,82,80,77,2,1,0,1
+172.217.10.10-10.42.0.151-443-35139-6,21,female,free/reduced,high school,Comm&Mgmt,group D,completed,52,57,56,2,0,1,0
+10.42.0.211-38.69.238.10-55071-80-6,22,male,standard,associate's degree,Comm&Mgmt,group D,completed,87,84,85,0,0,0,1
+10.42.0.1-10.42.0.42-53-26342-17,21,female,standard,master's degree,Sci&Tech,group D,completed,70,71,74,0,0,0,0
+10.42.0.211-10.42.0.1-46904-53-17,22,male,standard,master's degree,Comm&Mgmt,group E,completed,84,83,78,2,0,1,0
+172.217.12.195-10.42.0.42-443-40875-17,21,male,standard,associate's degree,Comm&Mgmt,group D,none,71,66,60,0,0,1,0
+180.149.134.221-10.42.0.42-80-47737-6,21,male,standard,some high school,Others,group B,completed,63,67,67,1,1,1,0
+202.77.129.161-10.42.0.42-80-43105-6,22,female,free/reduced,bachelor's degree,Comm&Mgmt,group C,completed,51,72,79,1,0,1,1
+172.217.12.174-10.42.0.42-443-44726-6,22,male,standard,high school,Sci&Tech,group E,none,84,73,69,0,1,1,0
+10.42.0.211-52.85.101.68-41900-443-6,22,male,standard,bachelor's degree,Comm&Mgmt,group C,completed,71,74,68,2,0,1,0
+10.42.0.42-14.17.42.57-54296-80-6,21,male,standard,associate's degree,Sci&Tech,group C,none,74,73,67,0,0,0,0
+174.35.73.168-10.42.0.42-80-52013-6,22,male,standard,master's degree,Comm&Mgmt,group D,none,68,59,62,0,1,1,1
+10.42.0.211-10.42.0.1-57157-53-17,22,male,free/reduced,high school,Comm&Mgmt,group E,completed,57,56,54,0,0,1,0
+202.77.129.150-10.42.0.211-80-57108-6,21,female,free/reduced,associate's degree,Others,group C,completed,82,93,93,0,0,1,0
+10.42.0.211-31.13.71.36-52352-443-6,22,female,standard,high school,Comm&Mgmt,group D,completed,57,58,64,2,0,0,1
+175.100.207.232-10.42.0.151-80-40339-6,22,female,free/reduced,master's degree,Comm&Mgmt,group D,completed,47,58,67,1,0,0,0
+10.42.0.42-31.13.80.12-45203-443-6,21,female,standard,some high school,Comm&Mgmt,group A,completed,59,85,80,1,0,1,0
+10.42.0.211-10.42.0.1-5021-53-17,22,male,free/reduced,master's degree,Comm&Mgmt,group B,none,41,39,34,0,1,1,0
+175.100.207.231-10.42.0.151-80-43448-6,21,female,free/reduced,master's degree,Comm&Mgmt,group C,none,62,67,62,3,0,1,0
+208.80.154.224-10.42.0.151-443-48304-6,22,male,standard,bachelor's degree,Comm&Mgmt,group C,none,86,83,86,0,1,1,0
+10.42.0.42-66.198.24.250-38543-443-6,21,male,free/reduced,some high school,Sci&Tech,group C,none,69,71,65,0,0,1,0
+10.42.0.211-10.42.0.1-22181-53-17,21,male,free/reduced,some high school,Comm&Mgmt,group A,none,65,59,53,0,1,0,1
+198.11.132.221-10.42.0.211-443-58785-6,21,male,free/reduced,some high school,Comm&Mgmt,group C,none,68,63,54,0,0,1,0
+205.185.216.42-10.42.0.151-80-41144-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group C,none,64,66,59,1,0,1,1
+10.42.0.211-104.192.110.245-58910-80-6,22,female,standard,high school,Sci&Tech,group C,none,61,72,70,1,0,0,0
+10.42.0.211-10.42.0.1-54582-53-17,21,male,standard,high school,Comm&Mgmt,group C,none,61,56,55,0,0,0,1
+10.42.0.211-103.235.46.211-49081-443-6,21,female,free/reduced,some high school,Comm&Mgmt,group A,none,47,59,50,1,0,1,0
+10.42.0.211-10.42.0.1-32398-53-17,21,male,standard,some high school,Sci&Tech,group C,none,73,66,66,1,0,1,0
+10.42.0.211-52.84.134.157-46423-443-6,21,male,free/reduced,master's degree,Comm&Mgmt,group C,completed,50,48,53,0,1,1,0
+10.42.0.151-31.13.71.37-45380-443-6,21,male,standard,associate's degree,Comm&Mgmt,group D,none,75,68,64,0,0,1,0
+222.73.28.96-10.42.0.42-80-56163-6,21,male,free/reduced,associate's degree,Others,group D,none,75,66,73,1,1,0,1
+175.100.207.232-10.42.0.211-443-44534-6,22,male,standard,high school,Comm&Mgmt,group C,none,70,56,51,0,0,0,1
+239.255.255.250-10.42.0.1-1900-50220-17,22,male,standard,some high school,Sci&Tech,group D,completed,89,88,82,0,0,0,0
+10.42.0.211-103.235.46.211-59391-443-6,21,female,standard,master's degree,Comm&Mgmt,group C,completed,67,81,79,0,0,1,1
+172.217.12.142-10.42.0.211-443-58455-6,21,female,standard,high school,Sci&Tech,group D,none,78,81,80,1,0,0,1
+180.149.136.194-10.42.0.211-443-32927-6,22,female,free/reduced,some high school,Sci&Tech,group A,none,59,73,69,1,0,1,1
+10.42.0.151-36.110.213.49-46804-443-6,21,female,standard,associate's degree,Comm&Mgmt,group B,none,73,83,76,0,0,1,1
+239.255.255.250-10.42.0.151-1900-55233-17,21,male,free/reduced,some high school,Comm&Mgmt,group A,none,79,82,73,0,0,1,0
+180.149.138.210-10.42.0.211-80-52068-6,21,female,standard,some high school,Sci&Tech,group C,completed,67,74,77,1,0,1,1
+10.42.0.42-104.237.191.1-37068-443-6,22,male,free/reduced,master's degree,Comm&Mgmt,group D,none,69,66,60,0,0,1,0
+10.42.0.211-10.42.0.1-33643-53-17,21,male,standard,high school,Sci&Tech,group C,completed,86,81,80,0,0,0,0
+10.42.0.211-10.42.0.1-13102-53-17,28,male,standard,high school,Comm&Mgmt,group B,none,47,46,42,0,1,1,0
+10.42.0.1-10.42.0.42-53-43012-17,21,male,standard,associate's degree,Sci&Tech,group B,none,81,73,72,2,0,1,1
+10.42.0.151-121.12.98.78-58829-80-6,22,female,free/reduced,master's degree,Comm&Mgmt,group C,completed,64,85,85,2,0,1,0
+203.205.147.229-10.42.0.151-80-56212-6,21,female,standard,master's degree,Comm&Mgmt,group E,none,100,92,97,1,1,1,0
+202.77.129.150-10.42.0.211-80-35282-6,22,female,free/reduced,associate's degree,Sci&Tech,group C,none,65,77,74,0,1,1,1
+239.255.255.250-10.42.0.1-1900-34027-17,21,male,free/reduced,master's degree,Comm&Mgmt,group C,none,65,58,49,0,1,1,0
+10.42.0.151-10.42.0.1-42494-53-17,21,female,free/reduced,associate's degree,Comm&Mgmt,group C,none,53,61,62,1,0,1,0
+10.42.0.211-106.11.15.99-43307-443-6,22,male,free/reduced,bachelor's degree,Comm&Mgmt,group C,none,37,56,47,1,1,1,0
+10.42.0.211-104.208.156.39-41901-443-6,22,female,standard,bachelor's degree,Sci&Tech,group D,none,79,89,89,0,0,1,0
+172.217.10.142-10.42.0.211-443-35739-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group D,none,53,54,48,0,0,1,1
+10.42.0.151-10.42.0.1-3540-53-17,21,female,standard,bachelor's degree,Sci&Tech,group E,none,100,100,100,0,1,1,0
+10.42.0.211-104.193.88.109-42060-80-6,22,male,standard,high school,Comm&Mgmt,group B,completed,72,65,68,0,1,0,0
+10.42.0.42-37.1.204.175-37695-80-6,22,male,free/reduced,bachelor's degree,Comm&Mgmt,group C,none,53,58,55,1,1,0,1
+198.105.244.11-10.42.0.42-80-45685-6,22,male,free/reduced,master's degree,Comm&Mgmt,group B,none,54,54,45,0,0,1,0
+172.217.10.142-10.42.0.151-443-51241-6,21,female,standard,master's degree,Sci&Tech,group E,none,71,70,76,0,0,0,0
+172.217.10.227-10.42.0.151-80-58210-6,22,female,free/reduced,master's degree,Sci&Tech,group C,none,77,90,91,0,0,0,0
+169.45.248.107-10.42.0.211-443-36830-6,22,male,standard,bachelor's degree,Sci&Tech,group A,completed,75,58,62,1,1,1,0
+10.42.0.42-85.93.5.109-49057-80-6,21,female,standard,master's degree,Comm&Mgmt,group C,none,84,87,91,0,0,0,0
+216.58.219.202-10.42.0.211-443-53738-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group D,none,26,31,38,0,0,0,0
+10.42.0.42-62.138.0.117-51520-80-6,21,male,free/reduced,high school,Sci&Tech,group A,completed,72,67,65,0,0,0,1
+172.217.6.234-10.42.0.151-443-41692-6,22,female,free/reduced,high school,Sci&Tech,group A,completed,77,88,85,1,0,1,0
+172.217.12.131-10.42.0.151-443-50752-6,21,male,standard,master's degree,Comm&Mgmt,group C,none,91,74,76,1,0,0,1
+10.42.0.211-123.125.29.138-55149-443-6,21,female,standard,associate's degree,Sci&Tech,group C,completed,83,85,90,0,1,1,0
+216.58.212.131-10.42.0.42-443-48366-6,22,female,standard,high school,Others,group C,none,63,69,74,0,0,0,1
+10.42.0.211-64.71.142.110-42630-80-6,22,female,standard,associate's degree,Comm&Mgmt,group C,completed,68,86,84,0,0,1,0
+172.217.12.142-10.42.0.211-443-38923-6,21,female,standard,some high school,Comm&Mgmt,group D,none,59,67,61,1,0,1,0
+10.42.0.211-10.42.0.1-44069-53-17,21,female,standard,associate's degree,Others,group B,completed,90,90,91,1,1,1,0
+10.42.0.151-10.42.0.1-32817-53-17,22,female,standard,bachelor's degree,Comm&Mgmt,group D,completed,71,76,83,0,1,0,0
+10.42.0.1-10.42.0.42-53-24081-17,22,male,standard,bachelor's degree,Sci&Tech,group E,completed,76,62,66,0,0,0,1
+10.42.0.211-66.102.255.61-55887-443-6,22,male,standard,associate's degree,Comm&Mgmt,group D,none,80,68,72,2,0,0,0
+10.42.0.211-64.71.142.110-51365-443-6,21,female,standard,master's degree,Comm&Mgmt,group D,none,55,64,70,3,0,1,0
+10.42.0.211-31.13.80.12-45964-443-6,22,male,standard,associate's degree,Comm&Mgmt,group E,none,76,71,67,0,0,1,0
+10.42.0.151-10.42.0.1-1932-53-17,21,male,standard,high school,Comm&Mgmt,group B,completed,73,71,68,0,0,0,1
+10.42.0.211-98.139.180.149-58559-443-6,21,female,free/reduced,associate's degree,Comm&Mgmt,group D,none,52,59,56,1,0,1,0
+10.42.0.1-10.42.0.42-53-25923-17,21,male,free/reduced,master's degree,Others,group C,none,68,68,61,0,1,1,0
+172.217.3.99-10.42.0.151-443-33302-6,22,male,standard,high school,Comm&Mgmt,group A,none,59,52,46,1,0,1,1
+10.42.0.151-52.84.134.181-54925-443-6,21,female,standard,associate's degree,Comm&Mgmt,group B,none,49,52,54,0,0,1,0
+172.217.9.225-10.42.0.211-443-35189-6,22,male,standard,high school,Sci&Tech,group C,none,70,74,71,1,1,1,0
+205.185.216.10-10.42.0.211-80-40657-6,21,male,free/reduced,master's degree,Sci&Tech,group D,none,61,47,56,1,1,1,0
+172.217.9.234-10.42.0.211-443-55205-6,22,female,free/reduced,associate's degree,Others,group C,none,60,75,74,0,0,1,0
+10.42.0.1-10.42.0.42-53-49143-17,22,male,standard,some high school,Comm&Mgmt,group B,completed,64,53,57,0,1,1,1
+172.217.6.202-10.42.0.42-443-40057-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group A,completed,79,82,82,0,1,1,0
+192.229.173.173-10.42.0.211-80-39746-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group A,none,65,85,76,0,0,1,0
+172.217.6.238-10.42.0.151-443-39200-6,22,female,standard,associate's degree,Sci&Tech,group C,none,64,64,70,1,0,1,1
+10.42.0.151-104.193.88.109-48423-80-6,21,female,standard,master's degree,Comm&Mgmt,group C,none,83,83,90,1,0,1,0
+182.22.25.124-10.42.0.151-443-56812-6,22,female,standard,bachelor's degree,Comm&Mgmt,group C,none,81,88,90,1,0,0,0
+10.42.0.211-52.84.134.65-41283-443-6,22,female,standard,high school,Comm&Mgmt,group B,none,54,64,68,0,1,0,0
+10.42.0.211-10.42.0.1-12505-53-17,21,male,standard,high school,Comm&Mgmt,group D,completed,68,64,66,2,1,1,0
+180.149.153.234-10.42.0.42-80-44213-6,22,female,standard,master's degree,Comm&Mgmt,group C,none,54,48,52,0,0,1,0
+10.42.0.211-72.247.70.190-47904-80-6,21,female,free/reduced,master's degree,Comm&Mgmt,group D,completed,59,78,76,0,0,1,0
+172.217.10.14-10.42.0.151-443-45131-6,22,female,standard,some high school,Comm&Mgmt,group B,none,66,69,68,0,1,1,1
+10.42.0.151-31.13.65.7-45501-443-6,22,male,standard,master's degree,Comm&Mgmt,group E,none,76,71,72,2,1,0,0
+10.42.0.211-10.42.0.1-55094-53-17,22,female,standard,master's degree,Sci&Tech,group D,none,74,79,82,0,1,1,1
+172.217.3.106-10.42.0.211-443-38058-6,21,female,standard,associate's degree,Comm&Mgmt,group B,completed,94,87,92,0,0,1,0
+10.42.0.211-104.97.95.172-39568-80-6,22,male,free/reduced,master's degree,Comm&Mgmt,group C,none,63,61,54,1,0,0,1
+172.217.6.227-10.42.0.211-443-55402-6,21,female,standard,associate's degree,Comm&Mgmt,group E,completed,95,89,92,0,0,1,0
+10.42.0.211-106.39.162.36-39573-80-6,22,female,free/reduced,master's degree,Comm&Mgmt,group D,none,40,59,54,0,0,1,0
+10.42.0.211-66.102.255.40-51871-443-6,21,female,standard,some high school,Comm&Mgmt,group B,none,82,82,80,3,1,1,0
+10.42.0.211-104.97.95.172-34800-80-6,22,male,standard,high school,Others,group A,none,68,70,66,3,1,1,0
+10.42.0.211-104.192.110.245-53532-80-6,21,male,free/reduced,bachelor's degree,Comm&Mgmt,group B,none,55,59,54,0,0,1,0
+10.42.0.151-52.84.134.181-50524-443-6,21,male,standard,master's degree,Sci&Tech,group C,none,79,78,77,1,0,1,0
+10.42.0.211-54.192.36.192-42888-443-6,21,female,standard,bachelor's degree,Comm&Mgmt,group C,none,86,92,87,0,0,1,1
+172.217.10.66-10.42.0.211-443-51200-6,21,male,standard,master's degree,Comm&Mgmt,group D,none,76,71,73,2,1,1,0
+8.0.6.4-8.6.0.1-0-0-0,22,male,standard,some high school,Comm&Mgmt,group A,none,64,50,43,0,1,1,0
+182.254.5.234-10.42.0.211-80-56928-6,21,male,free/reduced,some high school,Comm&Mgmt,group D,none,62,49,52,1,1,1,0
+192.229.163.180-10.42.0.151-443-39465-6,22,female,standard,some high school,Comm&Mgmt,group B,completed,54,61,62,0,0,1,1
+10.42.0.211-115.239.210.141-41075-80-6,21,female,free/reduced,master's degree,Others,group B,completed,77,97,94,1,0,1,1
+10.42.0.151-31.13.71.3-41568-443-6,22,female,standard,some high school,Comm&Mgmt,group C,completed,76,87,85,1,1,1,1
+10.42.0.151-66.198.24.243-38565-80-6,21,female,standard,master's degree,Comm&Mgmt,group D,none,74,89,84,0,0,1,0
+10.42.0.211-10.42.0.1-45620-53-17,21,female,standard,master's degree,Comm&Mgmt,group E,completed,66,74,73,0,0,0,0
+220.243.219.55-10.42.0.211-80-54776-6,21,female,standard,some high school,Others,group D,completed,66,78,78,1,1,1,0
+10.42.0.151-10.42.0.1-20292-53-17,21,female,free/reduced,high school,Comm&Mgmt,group B,completed,67,78,79,1,0,1,0
+10.42.0.151-10.42.0.1-46430-53-17,21,male,standard,master's degree,Sci&Tech,group D,none,71,49,52,1,0,0,1
+192.229.173.173-10.42.0.211-443-44786-6,22,female,standard,associate's degree,Comm&Mgmt,group C,none,91,86,84,0,1,1,0
+10.42.0.211-23.203.49.224-38004-443-6,22,male,standard,bachelor's degree,Comm&Mgmt,group D,none,69,58,57,1,0,1,0
+10.42.0.211-10.42.0.1-25773-53-17,21,male,free/reduced,master's degree,Comm&Mgmt,group C,none,54,59,50,1,0,1,1
+10.42.0.211-72.21.206.141-53419-443-6,21,male,standard,high school,Comm&Mgmt,group C,completed,53,52,49,0,0,1,0
+10.42.0.211-10.42.0.1-24415-53-17,22,male,standard,master's degree,Comm&Mgmt,group E,none,68,60,59,1,0,1,0
+10.42.0.211-10.42.0.1-18163-53-17,22,male,free/reduced,some high school,Comm&Mgmt,group C,completed,56,61,60,1,0,0,0
+222.73.28.96-10.42.0.211-80-41491-6,22,female,free/reduced,high school,Comm&Mgmt,group C,none,36,53,43,0,0,1,1
+10.42.0.42-123.125.115.164-53673-443-6,21,female,free/reduced,bachelor's degree,Comm&Mgmt,group D,none,29,41,47,1,0,1,0
+10.42.0.211-10.42.0.1-26726-53-17,22,female,standard,associate's degree,Comm&Mgmt,group C,none,62,74,70,2,1,1,0
+10.42.0.151-106.39.169.66-43568-80-6,21,female,standard,associate's degree,Sci&Tech,group C,completed,68,67,73,0,1,0,1
+10.42.0.211-10.42.0.1-58534-53-17,22,female,standard,some high school,Comm&Mgmt,group C,none,47,54,53,1,1,0,0
+172.217.11.46-10.42.0.151-443-60415-6,22,male,standard,associate's degree,Comm&Mgmt,group E,completed,62,61,58,1,0,0,0
+10.42.0.211-119.146.74.34-59536-80-6,22,female,standard,associate's degree,Comm&Mgmt,group E,completed,79,88,94,1,1,1,0
+211.236.244.151-10.42.0.211-80-34466-6,22,male,standard,high school,Sci&Tech,group B,completed,73,69,68,1,0,1,0
+183.79.17.108-10.42.0.151-443-60433-6,21,female,free/reduced,bachelor's degree,Comm&Mgmt,group C,completed,66,83,83,0,0,0,1
+10.42.0.151-119.146.74.49-36548-443-6,21,male,standard,associate's degree,Sci&Tech,group C,completed,51,60,58,0,0,1,0
+10.42.0.151-10.42.0.1-24054-53-17,21,female,standard,high school,Sci&Tech,group D,none,51,66,62,1,0,1,0
+10.42.0.1-10.42.0.42-53-58327-17,22,male,standard,bachelor's degree,Comm&Mgmt,group E,completed,85,66,71,0,0,1,1
+172.217.7.195-10.42.0.42-443-34789-6,21,male,standard,associate's degree,Comm&Mgmt,group A,completed,97,92,86,2,0,1,0
+182.22.25.124-10.42.0.151-443-56817-6,22,male,standard,high school,Sci&Tech,group C,completed,75,69,68,1,0,1,0
+10.42.0.1-10.42.0.42-53-58204-17,22,male,free/reduced,associate's degree,Sci&Tech,group D,completed,79,82,80,0,0,1,0
+172.217.10.42-10.42.0.151-443-36345-6,22,female,standard,associate's degree,Sci&Tech,group C,none,81,77,79,0,1,0,0
+10.42.0.211-123.125.115.164-40825-443-6,22,female,standard,associate's degree,Comm&Mgmt,group D,none,82,95,89,1,0,1,0
+151.101.45.140-10.42.0.151-443-56189-6,22,female,standard,master's degree,Comm&Mgmt,group D,none,64,63,66,1,0,1,0
+222.73.28.96-10.42.0.211-80-49077-6,21,male,free/reduced,some high school,Comm&Mgmt,group E,completed,78,83,80,1,0,1,1
+10.42.0.211-23.50.64.177-58624-443-6,22,female,standard,some high school,Comm&Mgmt,group A,completed,92,100,97,1,0,1,0
+222.73.28.96-10.42.0.42-80-43487-6,21,male,standard,high school,Comm&Mgmt,group C,completed,72,67,64,1,0,1,1
+10.42.0.211-10.42.0.1-1901-53-17,22,female,free/reduced,high school,Sci&Tech,group C,none,62,67,64,1,1,1,0
+10.42.0.211-104.193.88.109-57986-80-6,21,male,standard,master's degree,Sci&Tech,group C,none,79,72,69,1,1,1,1
+10.42.0.211-10.42.0.1-59776-53-17,30,male,free/reduced,some high school,Comm&Mgmt,group C,none,79,76,65,1,0,1,0
+169.53.71.250-10.42.0.42-5222-45721-6,22,male,free/reduced,bachelor's degree,Comm&Mgmt,group B,completed,87,90,88,0,0,1,0
+10.42.0.211-10.42.0.1-3332-53-17,21,female,standard,associate's degree,Sci&Tech,group B,none,40,48,50,1,0,0,0
+10.42.0.211-74.125.22.188-56675-5228-6,22,male,free/reduced,master's degree,Comm&Mgmt,group D,none,77,62,64,0,0,1,0
+172.217.12.174-10.42.0.42-443-52312-6,22,male,standard,associate's degree,Comm&Mgmt,group E,none,53,45,40,1,1,1,1
+10.42.0.151-74.119.118.85-54381-443-6,22,female,free/reduced,master's degree,Others,group C,none,32,39,33,1,0,0,1
+10.42.0.211-123.125.115.164-40824-443-6,22,female,standard,associate's degree,Comm&Mgmt,group C,completed,55,72,79,1,1,0,0
+10.42.0.211-112.80.248.187-54890-80-6,21,male,free/reduced,master's degree,Sci&Tech,group C,none,61,67,66,1,0,1,1
+10.42.0.1-10.42.0.42-53-35050-17,21,female,free/reduced,associate's degree,Comm&Mgmt,group B,none,53,70,70,0,0,1,1
+10.42.0.151-10.42.0.1-54305-53-17,22,male,standard,some high school,Sci&Tech,group D,none,73,66,62,1,0,0,1
+10.42.0.211-10.42.0.1-8913-53-17,21,female,standard,master's degree,Comm&Mgmt,group D,completed,74,75,79,0,0,1,1
+174.35.73.199-10.42.0.211-443-54745-6,21,female,standard,master's degree,Comm&Mgmt,group C,none,63,74,74,1,0,1,0
+10.42.0.151-10.42.0.1-52918-53-17,22,male,standard,bachelor's degree,Others,group C,completed,96,90,92,1,0,0,1
+151.101.0.166-10.42.0.42-443-53509-6,22,female,free/reduced,master's degree,Comm&Mgmt,group D,completed,63,80,80,0,0,1,0
+151.101.1.140-10.42.0.151-443-54106-6,22,male,free/reduced,bachelor's degree,Comm&Mgmt,group B,none,48,51,46,1,0,0,0
+192.229.163.180-10.42.0.151-443-58367-6,21,male,standard,associate's degree,Comm&Mgmt,group B,none,48,43,45,1,0,1,0
+209.85.201.113-10.42.0.151-443-59879-6,21,female,free/reduced,bachelor's degree,Comm&Mgmt,group E,completed,92,100,100,2,0,1,1
+10.42.0.211-10.42.0.1-8340-53-17,21,female,free/reduced,master's degree,Comm&Mgmt,group D,completed,61,71,78,0,0,0,0
+172.217.3.106-10.42.0.211-443-32961-6,22,male,free/reduced,high school,Comm&Mgmt,group B,none,63,48,47,0,0,0,0
+172.217.12.170-10.42.0.211-443-35100-6,22,male,free/reduced,bachelor's degree,Sci&Tech,group D,none,68,68,67,2,0,0,1
+180.149.134.221-10.42.0.42-80-39754-6,22,male,standard,master's degree,Comm&Mgmt,group B,completed,71,75,70,0,0,0,0
+10.42.0.211-10.42.0.1-12555-53-17,21,male,standard,bachelor's degree,Comm&Mgmt,group A,none,91,96,92,0,0,0,0
+209.10.120.26-10.42.0.211-80-49241-6,22,female,standard,master's degree,Comm&Mgmt,group C,none,53,62,56,1,0,1,0
+10.42.0.211-123.125.29.138-53036-80-6,21,female,free/reduced,high school,Sci&Tech,group C,completed,50,66,64,0,0,1,0
+163.177.151.166-10.42.0.211-443-35418-6,22,female,standard,high school,Comm&Mgmt,group E,none,74,81,71,0,0,1,1
+172.217.6.196-10.42.0.211-443-45333-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group A,completed,40,55,53,1,0,1,0
+172.217.11.14-10.42.0.151-443-39085-6,21,male,standard,master's degree,Sci&Tech,group A,completed,61,51,52,0,0,1,0
+10.42.0.211-123.125.115.190-32878-80-6,21,female,standard,high school,Comm&Mgmt,group B,none,81,91,89,0,1,1,1
+10.42.0.211-69.147.64.34-40686-443-6,22,female,free/reduced,master's degree,Comm&Mgmt,group B,completed,48,56,58,1,0,1,0
+10.42.0.151-31.13.71.37-52320-443-6,22,female,standard,master's degree,Others,group D,none,53,61,68,0,0,0,0
+172.217.12.170-10.42.0.211-443-34778-6,21,female,standard,some high school,Comm&Mgmt,group D,none,81,97,96,0,0,1,0
+222.73.28.96-10.42.0.42-80-43360-6,21,female,standard,some high school,Sci&Tech,group E,none,77,79,80,1,0,1,0
+10.42.0.211-54.192.37.11-41383-443-6,21,female,free/reduced,bachelor's degree,Comm&Mgmt,group D,none,63,73,78,1,0,0,0
+10.42.0.1-10.42.0.42-53-49974-17,22,female,standard,associate's degree,Sci&Tech,group D,completed,73,75,80,0,1,0,0
+216.58.219.202-10.42.0.151-443-39807-6,21,female,standard,master's degree,Sci&Tech,group D,none,69,77,77,2,0,0,1
+10.42.0.42-108.168.176.239-49541-443-6,22,female,standard,associate's degree,Comm&Mgmt,group C,none,65,76,76,0,0,0,0
+192.229.173.173-10.42.0.211-80-44239-6,21,female,standard,high school,Comm&Mgmt,group A,none,55,73,73,1,0,0,1
+172.217.10.45-10.42.0.151-443-47682-6,22,female,free/reduced,bachelor's degree,Sci&Tech,group C,none,44,63,62,1,0,0,0
+10.42.0.211-10.42.0.1-45549-53-17,21,female,standard,master's degree,Comm&Mgmt,group C,none,54,64,65,0,0,0,1
+172.217.10.42-10.42.0.42-443-51946-6,21,female,standard,some high school,Sci&Tech,group A,none,48,66,65,1,0,0,0
+10.42.0.211-10.42.0.1-14963-53-17,21,male,free/reduced,master's degree,Comm&Mgmt,group C,none,58,57,54,1,0,0,0
+10.42.0.211-106.11.15.99-42945-443-6,21,male,standard,some high school,Sci&Tech,group A,none,71,62,50,0,0,0,0
+216.58.219.234-10.42.0.42-443-52150-6,22,male,standard,bachelor's degree,Comm&Mgmt,group E,none,68,68,64,2,0,0,0
+10.42.0.1-10.42.0.42-53-2239-17,22,female,standard,high school,Comm&Mgmt,group E,none,74,76,73,1,0,0,1
+172.217.12.170-10.42.0.211-443-37774-6,21,female,standard,bachelor's degree,Sci&Tech,group C,completed,92,100,99,0,0,0,0
+10.42.0.151-31.13.80.5-45356-443-6,22,female,standard,bachelor's degree,Comm&Mgmt,group C,completed,56,79,72,1,0,1,0
+172.217.3.99-10.42.0.151-443-35053-6,21,male,free/reduced,high school,Comm&Mgmt,group B,none,30,24,15,0,0,1,0
+172.217.10.131-10.42.0.42-443-55775-6,22,male,standard,some high school,Comm&Mgmt,group A,none,53,54,48,0,0,0,1
+208.80.154.224-10.42.0.151-443-41258-6,22,female,standard,high school,Sci&Tech,group D,none,69,77,73,1,0,1,0
+10.42.0.151-10.42.0.1-64503-53-17,21,female,standard,some high school,Comm&Mgmt,group D,none,65,82,81,2,1,1,0
+180.163.15.184-10.42.0.211-80-38676-6,21,female,standard,master's degree,Sci&Tech,group D,none,54,60,63,2,0,1,1
+10.42.0.211-119.146.74.34-36915-80-6,22,female,standard,high school,Comm&Mgmt,group C,none,29,29,30,2,1,0,0
+10.42.0.211-72.247.70.190-47937-80-6,21,female,standard,master's degree,Comm&Mgmt,group E,none,76,78,80,2,0,0,0
+10.42.0.211-23.203.49.224-37287-443-6,21,male,free/reduced,high school,Comm&Mgmt,group D,none,60,57,51,2,0,1,0
+10.42.0.151-104.88.89.135-45394-443-6,21,male,free/reduced,master's degree,Sci&Tech,group D,completed,84,89,90,2,0,0,0
+10.42.0.211-66.198.24.250-49700-80-6,22,male,standard,some high school,Sci&Tech,group C,none,75,72,62,1,1,1,0
+172.217.7.195-10.42.0.211-443-37891-6,22,female,standard,associate's degree,Sci&Tech,group C,none,85,84,82,2,0,1,0
+10.42.0.211-10.42.0.1-4319-53-17,21,female,free/reduced,master's degree,Comm&Mgmt,group C,none,40,58,54,1,0,1,1
+10.42.0.211-23.23.129.231-55427-443-6,21,female,standard,master's degree,Comm&Mgmt,group E,none,61,64,62,2,0,1,0
+10.42.0.42-104.192.110.245-35918-80-6,22,female,standard,associate's degree,Sci&Tech,group B,none,58,63,65,1,0,1,0
+10.42.0.211-69.147.82.60-55022-443-6,21,male,free/reduced,master's degree,Sci&Tech,group D,completed,69,60,63,1,0,1,0
+217.69.136.176-10.42.0.151-443-33473-6,21,female,standard,master's degree,Comm&Mgmt,group C,none,58,59,66,2,0,0,1
+10.42.0.151-10.42.0.1-14382-53-17,22,male,standard,bachelor's degree,Sci&Tech,group C,completed,94,90,91,1,0,0,1
+10.42.0.1-10.42.0.42-53-49321-17,21,female,standard,associate's degree,Others,group C,none,65,77,74,1,0,0,1
+10.42.0.211-52.84.29.154-57117-443-6,21,female,standard,associate's degree,Comm&Mgmt,group A,none,82,93,93,1,0,1,0
+202.77.129.146-10.42.0.211-80-49447-6,21,female,standard,high school,Comm&Mgmt,group C,none,60,68,72,1,0,1,0
+172.217.10.99-10.42.0.151-443-52632-6,21,female,standard,bachelor's degree,Others,group E,none,37,45,38,2,0,0,0
+202.77.129.161-10.42.0.151-80-34127-6,22,male,standard,bachelor's degree,Comm&Mgmt,group D,none,88,78,83,1,0,1,0
+151.101.21.140-10.42.0.211-443-45971-6,22,male,standard,master's degree,Sci&Tech,group D,none,95,81,84,1,1,1,1
+10.42.0.211-123.125.29.220-37911-80-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group C,completed,65,73,68,2,1,1,0
+10.42.0.211-31.13.67.36-34239-443-6,22,female,free/reduced,high school,Comm&Mgmt,group C,none,35,61,54,1,1,1,0
+10.42.0.211-10.42.0.1-62026-53-17,22,male,free/reduced,bachelor's degree,Comm&Mgmt,group B,none,62,63,56,2,0,0,1
+172.217.12.195-10.42.0.151-443-45636-6,22,male,free/reduced,high school,Comm&Mgmt,group C,completed,58,51,52,2,1,1,0
+172.217.10.99-10.42.0.42-443-39174-6,22,male,standard,master's degree,Comm&Mgmt,group A,completed,100,96,86,1,0,1,0
+172.217.11.42-10.42.0.42-443-48085-6,22,female,free/reduced,bachelor's degree,Others,group E,none,61,58,62,2,0,1,0
+151.101.1.140-10.42.0.211-443-48053-6,22,male,standard,master's degree,Comm&Mgmt,group D,completed,100,97,99,1,0,0,1
+172.217.10.100-10.42.0.42-443-36855-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group B,completed,69,70,63,1,1,0,0
+10.42.0.151-119.146.74.33-41897-443-6,22,male,standard,associate's degree,Sci&Tech,group D,none,61,48,46,2,1,1,0
+10.42.0.151-103.7.30.118-55891-80-6,22,male,free/reduced,master's degree,Sci&Tech,group D,none,49,57,46,1,0,1,1
+172.217.12.206-10.42.0.211-443-35441-6,21,female,standard,some high school,Others,group C,completed,44,51,55,1,1,0,0
+172.217.3.112-10.42.0.151-443-34768-6,21,male,standard,master's degree,Comm&Mgmt,group D,none,67,64,70,2,0,1,0
+10.42.0.211-10.42.0.1-44820-53-17,21,male,standard,high school,Comm&Mgmt,group B,none,79,60,65,2,0,1,0
+216.58.219.202-10.42.0.151-443-47455-6,21,female,standard,bachelor's degree,Comm&Mgmt,group B,completed,66,74,81,2,0,0,0
+10.42.0.151-112.80.248.187-50053-80-6,22,female,standard,high school,Sci&Tech,group C,none,75,88,85,2,0,1,1
+174.35.73.174-10.42.0.211-80-35224-6,22,male,standard,some high school,Comm&Mgmt,group D,none,84,84,80,1,0,1,0
+10.42.0.211-10.42.0.1-64255-53-17,22,male,standard,high school,Comm&Mgmt,group A,none,71,74,64,2,0,1,0
+151.101.118.2-10.42.0.42-443-52260-6,22,female,free/reduced,high school,Comm&Mgmt,group B,completed,67,80,81,2,0,1,1
+172.217.12.163-10.42.0.211-443-33652-6,21,female,standard,some high school,Comm&Mgmt,group D,completed,80,92,88,2,0,0,0
+10.42.0.211-64.71.142.124-35311-80-6,22,male,standard,master's degree,Comm&Mgmt,group E,none,86,76,74,1,0,0,0
+10.42.0.211-10.42.0.1-55232-53-17,21,female,standard,associate's degree,Comm&Mgmt,group D,none,76,74,73,1,1,1,0
+10.42.0.151-14.204.144.143-39580-80-6,21,male,standard,high school,Comm&Mgmt,group D,none,41,52,51,2,0,1,0
+10.42.0.42-121.12.98.62-36298-80-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group D,completed,74,88,90,1,1,0,0
+172.217.10.10-10.42.0.211-443-33897-6,21,female,free/reduced,some high school,Sci&Tech,group B,none,72,81,79,1,1,0,0
+172.217.3.110-10.42.0.42-443-39708-6,22,female,standard,high school,Comm&Mgmt,group E,completed,74,79,80,1,0,1,1
+10.42.0.151-10.42.0.1-8643-53-17,21,male,standard,high school,Comm&Mgmt,group B,none,70,65,60,1,1,1,0
+10.42.0.211-54.192.38.18-60878-443-6,22,female,standard,bachelor's degree,Comm&Mgmt,group B,completed,65,81,81,1,0,1,1
+175.100.207.231-10.42.0.151-80-33050-6,21,female,standard,associate's degree,Comm&Mgmt,group D,none,59,70,65,2,1,0,0
+10.42.0.211-10.42.0.1-2162-53-17,21,female,free/reduced,high school,Comm&Mgmt,group E,none,64,62,68,1,0,0,1
+10.42.0.211-23.23.207.243-59426-443-6,22,female,standard,high school,Others,group B,none,50,53,55,1,0,1,0
+10.42.0.211-52.26.183.201-37035-443-6,21,female,standard,master's degree,Comm&Mgmt,group D,completed,69,79,81,2,1,1,0
+192.229.173.173-10.42.0.211-443-50037-6,22,male,free/reduced,some high school,Sci&Tech,group C,completed,51,56,53,1,1,1,0
+10.42.0.211-23.194.140.226-48032-80-6,21,female,standard,high school,Comm&Mgmt,group A,completed,68,80,76,1,0,1,0
+182.22.120.252-10.42.0.151-443-43856-6,22,female,standard,master's degree,Comm&Mgmt,group D,completed,85,86,98,0,0,1,1
+172.217.10.74-10.42.0.151-443-54044-6,22,female,standard,associate's degree,Comm&Mgmt,group A,completed,65,70,74,1,0,1,1
+10.42.0.211-64.71.142.125-60580-443-6,21,female,standard,some high school,Comm&Mgmt,group B,none,73,79,79,0,0,1,0
+183.136.237.235-10.42.0.211-80-42976-6,22,female,standard,master's degree,Comm&Mgmt,group B,none,62,67,67,1,0,1,1
+182.22.120.234-10.42.0.151-443-58699-6,22,male,free/reduced,associate's degree,Others,group C,none,77,67,64,1,0,1,1
+10.42.0.151-54.230.38.181-53568-80-6,22,male,standard,some high school,Comm&Mgmt,group D,none,69,66,61,1,0,1,1
+10.42.0.211-113.108.216.233-42254-80-6,21,female,free/reduced,associate's degree,Comm&Mgmt,group D,none,43,60,58,0,1,1,0
+172.217.12.202-10.42.0.211-443-33707-6,22,male,standard,associate's degree,Sci&Tech,group D,none,90,87,85,0,0,1,0
+10.42.0.42-87.240.165.91-49023-80-6,22,male,free/reduced,master's degree,Sci&Tech,group C,none,74,77,73,1,1,1,1
+10.42.0.211-104.193.88.109-35300-80-6,22,male,standard,some high school,Others,group C,none,73,66,63,0,0,1,0
+172.217.11.14-10.42.0.211-443-33680-6,21,female,free/reduced,master's degree,Comm&Mgmt,group D,none,55,71,69,1,1,1,1
+172.217.10.234-10.42.0.42-443-47299-6,22,female,standard,high school,Comm&Mgmt,group C,none,65,69,67,0,0,1,0
+172.217.10.138-10.42.0.151-443-45248-6,22,male,standard,associate's degree,Comm&Mgmt,group D,none,80,63,63,0,0,1,1
+10.42.0.42-108.174.10.10-46775-443-6,21,female,free/reduced,some high school,Sci&Tech,group C,completed,50,60,60,1,0,1,0
+192.229.173.173-10.42.0.151-443-35041-6,22,female,free/reduced,master's degree,Others,group C,completed,63,73,71,1,1,1,0
+8.43.72.27-10.42.0.211-443-47486-6,22,female,free/reduced,bachelor's degree,Comm&Mgmt,group B,none,77,85,87,2,0,1,0
+10.42.0.211-112.80.248.187-33111-80-6,22,male,standard,master's degree,Sci&Tech,group C,none,73,74,61,1,1,1,0
+183.79.248.252-10.42.0.211-443-55924-6,21,male,standard,associate's degree,Comm&Mgmt,group D,completed,81,72,77,1,0,1,1
+10.42.0.211-23.206.125.17-54387-80-6,22,female,free/reduced,high school,Comm&Mgmt,group C,none,66,76,68,0,0,1,1
+180.149.138.210-10.42.0.211-80-36047-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group D,none,52,57,50,0,0,1,0
+10.42.0.1-10.42.0.42-53-33054-17,21,female,standard,master's degree,Comm&Mgmt,group C,none,69,78,76,1,0,0,1
+10.42.0.211-125.39.133.40-57493-80-6,22,female,standard,associate's degree,Comm&Mgmt,group C,completed,65,84,84,0,0,1,1
+10.42.0.151-65.52.108.74-60281-443-6,21,female,standard,high school,Comm&Mgmt,group D,completed,69,77,78,0,0,1,1
+10.42.0.1-10.42.0.42-53-10941-17,21,female,standard,master's degree,Comm&Mgmt,group B,completed,50,64,66,0,1,1,1
+151.101.22.2-10.42.0.151-443-47429-6,21,female,standard,master's degree,Comm&Mgmt,group E,completed,73,78,76,1,0,1,0
+172.217.10.106-10.42.0.211-443-58335-6,22,female,standard,some high school,Comm&Mgmt,group C,completed,70,82,76,0,0,1,1
+10.42.0.151-104.208.28.54-54804-443-6,22,male,free/reduced,associate's degree,Sci&Tech,group D,none,81,75,78,1,0,1,0
+220.243.235.201-10.42.0.211-80-54554-6,22,male,free/reduced,master's degree,Comm&Mgmt,group D,none,63,61,60,1,0,1,0
+172.217.3.99-10.42.0.151-443-51552-6,21,female,standard,high school,Comm&Mgmt,group D,none,67,72,74,2,0,1,0
+10.42.0.42-59.38.112.48-46199-443-6,21,male,standard,high school,Comm&Mgmt,group B,none,60,68,60,1,0,1,1
+183.79.17.104-10.42.0.42-443-50382-6,22,male,standard,high school,Sci&Tech,group B,none,62,55,54,0,0,1,0
+172.217.10.130-10.42.0.211-443-38204-6,21,female,free/reduced,some high school,Comm&Mgmt,group C,completed,29,40,44,0,0,0,0
+10.42.0.151-103.235.46.212-50769-443-6,22,male,standard,master's degree,Sci&Tech,group B,completed,62,66,68,2,1,0,1
+10.42.0.211-10.42.0.1-3264-53-17,21,female,standard,master's degree,Sci&Tech,group E,completed,94,99,100,2,0,1,0
+172.217.6.206-10.42.0.211-443-47222-6,21,male,standard,master's degree,Comm&Mgmt,group E,completed,85,75,68,0,1,0,0
+220.243.237.154-10.42.0.211-80-44910-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group D,none,77,78,73,0,0,1,0
+172.217.12.206-10.42.0.151-443-50331-6,22,male,free/reduced,high school,Sci&Tech,group A,none,53,58,44,0,1,0,0
+172.217.12.206-10.42.0.211-443-39127-6,21,male,free/reduced,master's degree,Sci&Tech,group E,none,93,90,83,0,0,1,1
+131.253.61.64-10.42.0.151-443-50175-6,22,female,standard,associate's degree,Sci&Tech,group C,none,49,53,53,0,0,1,0
+10.42.0.211-10.42.0.1-39527-53-17,21,female,free/reduced,associate's degree,Comm&Mgmt,group E,none,73,76,78,1,0,0,0
+172.217.11.10-10.42.0.211-443-54138-6,22,female,free/reduced,bachelor's degree,Comm&Mgmt,group C,completed,66,74,81,1,0,1,1
+205.185.216.10-10.42.0.211-80-40604-6,21,female,standard,associate's degree,Comm&Mgmt,group D,none,77,77,73,2,0,0,0
+10.42.0.211-66.198.24.243-45434-80-6,22,female,standard,some high school,Comm&Mgmt,group C,none,49,63,56,1,0,0,0
+10.42.0.151-115.239.210.141-40863-443-6,22,female,free/reduced,master's degree,Comm&Mgmt,group D,none,79,89,86,1,0,0,0
+202.77.129.150-10.42.0.211-80-35163-6,21,female,standard,associate's degree,Sci&Tech,group C,completed,75,82,90,0,0,1,0
+172.217.12.170-10.42.0.151-443-49523-6,21,female,standard,bachelor's degree,Sci&Tech,group A,none,59,72,70,0,0,0,0
+10.42.0.42-52.84.29.55-32882-443-6,21,female,standard,associate's degree,Comm&Mgmt,group D,completed,57,78,79,2,1,1,0
+172.217.12.195-10.42.0.42-443-47288-6,21,male,free/reduced,high school,Comm&Mgmt,group C,none,66,66,59,1,0,0,1
+10.42.0.151-119.146.74.33-41898-443-6,25,female,standard,bachelor's degree,Sci&Tech,group E,completed,79,81,82,0,0,0,0
+182.22.31.124-10.42.0.211-443-57818-6,26,female,standard,some high school,Comm&Mgmt,group B,none,57,67,72,2,0,1,1
+221.228.208.97-10.42.0.211-80-60434-6,24,male,standard,bachelor's degree,Comm&Mgmt,group A,completed,87,84,87,1,0,1,0
+10.42.0.151-64.71.142.95-43879-443-6,25,female,standard,master's degree,Others,group D,none,63,64,67,2,0,1,1
+175.100.207.232-10.42.0.42-80-40335-6,24,female,free/reduced,some high school,Comm&Mgmt,group B,completed,59,63,64,0,0,1,0
+172.217.11.2-10.42.0.211-443-34919-6,25,male,free/reduced,bachelor's degree,Sci&Tech,group A,none,62,72,65,1,0,1,0
+131.253.61.80-10.42.0.211-443-56829-6,23,male,standard,high school,Comm&Mgmt,group D,none,46,34,36,0,0,1,0
+219.142.78.162-10.42.0.211-80-49251-6,24,male,standard,master's degree,Sci&Tech,group C,none,66,59,52,1,0,0,0
+202.77.129.150-10.42.0.42-80-60115-6,25,male,standard,high school,Comm&Mgmt,group D,none,89,87,79,0,1,0,1
+183.232.118.20-10.42.0.211-80-60097-6,25,female,free/reduced,associate's degree,Comm&Mgmt,group D,completed,42,61,58,1,0,1,0
+203.205.191.25-10.42.0.151-80-54167-6,26,male,standard,master's degree,Others,group C,completed,93,84,90,1,0,1,0
+192.229.163.180-10.42.0.151-443-39531-6,26,female,standard,some high school,Comm&Mgmt,group E,completed,80,85,85,1,1,1,0
+180.149.138.210-10.42.0.211-80-40559-6,25,female,standard,master's degree,Comm&Mgmt,group D,none,98,100,99,0,0,1,1
+10.42.0.151-10.42.0.1-55591-53-17,26,male,standard,master's degree,Comm&Mgmt,group D,none,81,81,84,0,0,1,0
+10.42.0.211-10.42.0.1-6370-53-17,24,female,standard,some high school,Comm&Mgmt,group B,completed,60,70,74,0,0,1,0
+172.217.12.205-10.42.0.151-443-44810-6,25,female,free/reduced,associate's degree,Comm&Mgmt,group B,completed,76,94,87,1,0,0,1
+10.42.0.211-77.234.44.201-35650-80-6,23,male,standard,associate's degree,Comm&Mgmt,group C,completed,73,78,72,1,0,0,0
+10.42.0.42-119.146.74.34-50461-80-6,23,female,standard,associate's degree,Sci&Tech,group C,completed,96,96,99,0,0,1,0
+162.208.22.39-10.42.0.211-443-57667-6,24,female,standard,high school,Comm&Mgmt,group C,none,76,76,74,1,0,1,0
+10.42.0.151-10.42.0.1-63271-53-17,25,male,free/reduced,associate's degree,Comm&Mgmt,group E,completed,91,73,80,0,0,1,0
+10.42.0.211-114.134.80.163-36890-443-6,24,female,free/reduced,master's degree,Comm&Mgmt,group C,none,62,72,70,0,0,0,1
+10.42.0.211-64.71.142.95-47104-443-6,24,male,free/reduced,some high school,Sci&Tech,group D,completed,55,59,59,2,1,0,0
+10.42.0.211-23.206.162.129-41617-80-6,23,female,free/reduced,some high school,Comm&Mgmt,group B,completed,74,90,88,1,1,1,0
+10.42.0.211-123.125.29.138-56162-80-6,26,male,standard,high school,Comm&Mgmt,group C,none,50,48,42,1,0,1,1
+172.217.12.176-10.42.0.151-443-35358-6,23,male,standard,master's degree,Sci&Tech,group B,none,47,43,41,1,0,1,0
+10.42.0.211-123.125.29.220-57843-80-6,26,male,standard,master's degree,Comm&Mgmt,group E,completed,81,74,71,1,0,1,0
+180.163.251.231-10.42.0.211-80-34507-6,26,female,standard,associate's degree,Comm&Mgmt,group E,completed,65,75,77,2,1,1,0
+172.217.11.35-10.42.0.151-443-39503-6,26,male,standard,some high school,Others,group E,completed,68,51,57,0,0,0,0
+10.42.0.211-104.192.110.245-46181-443-6,26,female,free/reduced,high school,Comm&Mgmt,group D,none,73,92,84,0,0,0,0
+10.42.0.211-123.125.115.164-40316-443-6,24,male,standard,master's degree,Sci&Tech,group C,none,53,39,37,0,0,0,0
+172.217.10.74-10.42.0.42-443-49166-6,24,female,free/reduced,associate's degree,Comm&Mgmt,group B,completed,68,77,80,1,0,0,1
+10.42.0.151-54.239.26.255-58404-443-6,23,male,free/reduced,some high school,Sci&Tech,group A,none,55,46,43,0,0,0,0
+10.42.0.42-52.40.87.241-36871-443-6,26,female,standard,master's degree,Sci&Tech,group C,completed,87,89,94,1,1,1,1
+10.42.0.211-23.205.20.233-41205-80-6,23,male,standard,some high school,Comm&Mgmt,group D,none,55,47,44,1,0,1,0
+10.42.0.211-106.39.162.36-54466-80-6,24,female,free/reduced,master's degree,Comm&Mgmt,group E,none,53,58,57,0,0,1,1
+10.42.0.151-31.13.80.5-52254-443-6,26,male,standard,master's degree,Sci&Tech,group C,none,67,57,59,0,0,1,0
+10.42.0.211-106.11.135.2-54385-80-6,25,male,standard,associate's degree,Comm&Mgmt,group C,none,92,79,84,0,0,1,0
+172.217.12.195-10.42.0.151-443-55355-6,23,female,free/reduced,master's degree,Sci&Tech,group B,completed,53,66,73,0,1,1,0
+10.42.0.211-58.63.236.212-38725-443-6,24,male,standard,associate's degree,Comm&Mgmt,group D,none,81,71,73,1,1,1,0
+10.42.0.211-10.42.0.1-4227-53-17,23,male,free/reduced,high school,Sci&Tech,group C,none,61,60,55,1,0,1,0
+10.42.0.151-10.42.0.1-1958-53-17,23,male,standard,bachelor's degree,Comm&Mgmt,group D,none,80,73,72,0,1,1,0
+10.42.0.211-54.239.17.112-37996-443-6,26,female,free/reduced,associate's degree,Comm&Mgmt,group A,none,37,57,56,3,0,1,1
+180.149.134.221-10.42.0.211-80-41338-6,24,female,standard,high school,Sci&Tech,group C,none,81,84,82,1,0,0,0
+10.42.0.211-91.190.219.45-44023-12350-6,26,female,standard,associate's degree,Comm&Mgmt,group C,completed,59,73,72,1,0,1,0
+10.42.0.211-10.42.0.1-53499-53-17,23,male,free/reduced,master's degree,Comm&Mgmt,group B,none,55,55,47,1,0,1,0
+10.42.0.211-10.42.0.1-53799-53-17,23,male,standard,associate's degree,Comm&Mgmt,group D,none,72,79,74,1,0,1,1
+172.217.10.72-10.42.0.42-443-56621-6,26,male,standard,high school,Sci&Tech,group D,none,69,75,71,1,0,1,1
+10.42.0.1-10.42.0.42-53-40785-17,26,male,standard,master's degree,Comm&Mgmt,group C,none,69,64,68,0,0,0,1
+151.101.117.140-10.42.0.211-443-45529-6,24,female,free/reduced,bachelor's degree,Sci&Tech,group C,none,50,60,59,1,0,1,0
+10.42.0.1-10.42.0.42-53-65087-17,23,male,standard,master's degree,Comm&Mgmt,group B,completed,87,84,86,0,0,1,0
+10.42.0.211-54.235.202.23-35685-443-6,26,male,standard,some high school,Comm&Mgmt,group D,completed,71,69,68,1,0,0,0
+10.42.0.211-125.39.133.40-51263-80-6,23,male,standard,master's degree,Comm&Mgmt,group E,none,68,72,65,1,1,0,0
+202.77.129.150-10.42.0.211-80-49358-6,24,male,free/reduced,master's degree,Sci&Tech,group C,completed,79,77,75,0,0,0,1
+10.42.0.211-123.125.29.220-46133-80-6,24,female,standard,some high school,Sci&Tech,group C,completed,77,90,85,1,0,0,0
+10.42.0.42-111.221.77.175-46360-40028-17,25,male,free/reduced,associate's degree,Sci&Tech,group C,none,58,55,53,1,0,1,0
+172.217.10.74-10.42.0.211-443-46090-6,25,female,standard,associate's degree,Comm&Mgmt,group E,none,84,95,92,0,0,0,1
+172.217.10.106-10.42.0.151-443-34138-6,26,male,standard,master's degree,Comm&Mgmt,group D,none,55,58,52,0,1,1,0
+10.42.0.42-74.125.202.188-33637-5228-6,24,male,free/reduced,bachelor's degree,Sci&Tech,group E,completed,70,68,72,0,1,1,0
+10.42.0.211-98.139.180.180-53669-443-6,26,female,free/reduced,master's degree,Sci&Tech,group D,completed,52,59,65,1,0,1,0
+172.217.10.35-10.42.0.211-443-36075-6,25,male,standard,master's degree,Comm&Mgmt,group B,completed,69,77,77,1,0,1,1
+172.217.3.106-10.42.0.151-443-40714-6,22,female,free/reduced,high school,Sci&Tech,group C,none,53,72,64,0,0,1,0
+10.42.0.151-72.21.207.148-60103-443-6,21,female,standard,some high school,Others,group D,none,48,58,54,0,0,1,0
+10.42.0.151-66.231.239.124-47217-443-6,22,male,standard,some high school,Comm&Mgmt,group D,completed,78,81,86,1,0,1,1
+10.42.0.211-10.42.0.1-36742-53-17,22,female,standard,high school,Comm&Mgmt,group B,none,62,62,63,1,0,0,0
+180.76.174.197-10.42.0.211-80-52228-6,22,male,standard,master's degree,Others,group D,none,60,63,59,1,1,1,0
+10.42.0.42-125.211.204.209-45251-80-6,22,female,standard,high school,Comm&Mgmt,group B,none,74,72,72,1,0,0,0
+10.42.0.211-104.192.108.27-41985-80-6,21,female,standard,high school,Sci&Tech,group C,completed,58,75,77,1,1,0,0
+10.42.0.211-10.42.0.1-51784-53-17,22,male,standard,high school,Comm&Mgmt,group B,completed,76,62,60,1,0,0,1
+10.42.0.151-10.42.0.1-47037-53-17,21,female,standard,some high school,Comm&Mgmt,group D,none,68,71,75,1,0,1,0
+172.217.11.10-10.42.0.211-443-33085-6,21,male,free/reduced,master's degree,Comm&Mgmt,group A,none,58,60,57,0,0,1,0
+10.42.0.211-10.42.0.1-21459-53-17,22,male,standard,high school,Comm&Mgmt,group B,none,52,48,49,0,1,1,1
+10.42.0.151-10.42.0.1-3445-53-17,22,male,standard,bachelor's degree,Comm&Mgmt,group D,none,75,73,74,2,1,1,0
+10.42.0.42-123.125.29.220-48864-80-6,22,female,free/reduced,some high school,Others,group B,completed,52,67,72,1,0,1,0
+10.42.0.211-64.71.142.96-38238-443-6,22,female,free/reduced,bachelor's degree,Comm&Mgmt,group C,none,62,78,79,1,0,1,0
+180.149.136.194-10.42.0.211-80-50585-6,21,male,standard,master's degree,Comm&Mgmt,group B,none,66,65,60,0,0,0,0
+10.42.0.211-103.7.30.118-35226-80-6,21,female,free/reduced,some high school,Sci&Tech,group B,none,49,58,55,0,0,0,0
+182.22.24.252-10.42.0.151-443-38568-6,21,female,standard,high school,Sci&Tech,group B,none,66,72,70,1,0,0,0
+10.42.0.151-65.55.118.92-52767-80-6,22,female,free/reduced,master's degree,Others,group C,none,35,44,43,1,0,1,1
+172.217.10.110-10.42.0.151-443-53942-6,22,female,standard,master's degree,Comm&Mgmt,group A,completed,72,79,82,0,0,0,0
+10.42.0.151-23.208.31.187-37957-80-6,21,male,standard,associate's degree,Comm&Mgmt,group E,completed,94,85,82,1,0,1,1
+10.42.0.151-123.125.115.190-35101-80-6,21,female,free/reduced,associate's degree,Comm&Mgmt,group D,none,46,56,57,1,0,1,0
+10.42.0.211-66.102.255.61-35485-443-6,22,female,standard,master's degree,Sci&Tech,group B,none,77,90,84,0,1,1,1
+10.42.0.42-108.174.11.1-38710-80-6,21,female,free/reduced,high school,Comm&Mgmt,group B,completed,76,85,82,2,0,1,0
+10.42.0.211-10.42.0.1-10388-53-17,22,female,standard,associate's degree,Comm&Mgmt,group C,completed,52,59,62,0,1,1,0
+10.42.0.211-115.239.210.141-50523-443-6,21,male,standard,bachelor's degree,Comm&Mgmt,group C,completed,91,81,79,1,0,1,0
+172.217.10.131-10.42.0.42-443-35126-6,22,female,standard,some high school,Comm&Mgmt,group B,completed,32,51,44,0,1,0,0
+10.42.0.211-104.192.110.245-53237-443-6,21,female,free/reduced,some high school,Comm&Mgmt,group E,none,72,79,77,0,0,1,1
+10.42.0.211-77.234.44.199-57177-80-6,21,female,standard,master's degree,Comm&Mgmt,group B,none,19,38,32,1,1,0,1
+202.77.129.161-10.42.0.211-80-56044-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group C,none,68,65,61,1,0,0,0
+10.42.0.211-119.146.74.31-58754-443-6,22,female,free/reduced,master's degree,Comm&Mgmt,group C,none,52,65,61,1,1,1,1
+10.42.0.211-36.110.213.174-57684-443-6,22,female,standard,high school,Sci&Tech,group B,none,48,62,60,0,1,1,1
+10.42.0.151-10.42.0.1-6781-53-17,22,female,free/reduced,master's degree,Comm&Mgmt,group D,none,60,66,70,0,0,1,1
+10.42.0.211-23.206.173.182-34057-80-6,22,male,free/reduced,high school,Comm&Mgmt,group D,none,66,74,69,1,0,1,1
+172.217.6.238-10.42.0.151-443-46281-6,22,male,standard,some high school,Comm&Mgmt,group E,completed,89,84,77,1,0,1,0
+151.101.1.134-10.42.0.151-443-35333-6,22,female,standard,high school,Comm&Mgmt,group B,none,42,52,51,2,0,1,1
+10.42.0.1-10.42.0.42-53-11034-17,22,female,free/reduced,associate's degree,Comm&Mgmt,group E,completed,57,68,73,0,0,1,0
+10.42.0.211-119.146.74.33-46477-443-6,22,male,standard,high school,Others,group D,none,70,70,70,1,1,0,0
+182.22.24.124-10.42.0.151-443-43944-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group E,none,70,84,81,0,1,1,0
+172.217.12.206-10.42.0.211-80-52303-6,22,male,standard,master's degree,Sci&Tech,group E,none,69,60,54,0,0,0,1
+10.42.0.211-77.234.44.79-49130-443-6,21,female,standard,associate's degree,Comm&Mgmt,group C,none,52,55,57,0,0,0,0
+172.217.10.3-10.42.0.211-443-39660-6,22,male,standard,some high school,Comm&Mgmt,group C,completed,67,73,68,0,0,1,0
+10.42.0.42-69.147.82.61-58917-443-6,21,male,standard,some high school,Comm&Mgmt,group C,completed,76,80,73,1,0,1,1
+140.205.134.25-10.42.0.151-443-38414-6,22,female,standard,associate's degree,Comm&Mgmt,group E,none,87,94,95,1,0,1,0
+10.42.0.151-10.42.0.1-10258-53-17,21,female,standard,master's degree,Comm&Mgmt,group B,none,82,85,87,0,0,0,0
+8.0.6.4-8.6.0.1-0-0-0,22,female,standard,master's degree,Others,group C,none,73,76,78,1,0,1,0
+10.42.0.151-123.125.46.11-46458-80-6,21,male,free/reduced,master's degree,Comm&Mgmt,group A,none,75,81,74,0,1,1,0
+140.205.134.25-10.42.0.211-443-52740-6,22,female,free/reduced,master's degree,Comm&Mgmt,group D,none,64,74,75,0,0,1,1
+220.243.219.55-10.42.0.211-80-56697-6,22,female,free/reduced,high school,Others,group E,none,41,45,40,1,0,1,0
+172.217.9.238-10.42.0.42-443-60602-6,22,male,standard,high school,Comm&Mgmt,group C,none,90,75,69,1,0,0,0
+180.149.135.239-10.42.0.211-80-35690-6,21,male,standard,bachelor's degree,Sci&Tech,group B,none,59,54,51,0,0,1,1
+10.42.0.151-66.231.239.125-52625-443-6,22,male,standard,some high school,Comm&Mgmt,group A,none,51,31,36,1,0,0,0
+172.217.11.46-10.42.0.211-443-34740-6,21,male,free/reduced,high school,Comm&Mgmt,group A,none,45,47,49,1,0,0,0
+10.42.0.42-64.71.142.120-52444-80-6,21,female,standard,master's degree,Comm&Mgmt,group C,completed,54,64,67,1,1,0,0
+198.11.136.24-10.42.0.211-443-38890-6,22,male,standard,some high school,Comm&Mgmt,group E,completed,87,84,76,1,0,1,0
+157.240.2.35-10.42.0.211-443-55045-6,22,female,standard,high school,Comm&Mgmt,group C,none,72,80,83,0,0,1,0
+198.105.244.11-10.42.0.42-80-59817-6,21,male,standard,some high school,Comm&Mgmt,group B,completed,94,86,87,0,0,1,0
+10.42.0.151-10.42.0.1-38637-53-17,22,female,standard,bachelor's degree,Comm&Mgmt,group A,none,45,59,64,1,0,0,1
+172.217.6.237-10.42.0.151-443-53196-6,21,male,free/reduced,bachelor's degree,Comm&Mgmt,group D,completed,61,70,76,0,1,1,0
+10.42.0.211-103.235.46.212-46483-443-6,21,female,free/reduced,high school,Comm&Mgmt,group B,none,60,72,68,0,0,1,1
+10.42.0.151-10.42.0.1-9628-53-17,22,female,standard,some high school,Sci&Tech,group C,none,77,91,88,0,0,1,0
+157.240.2.35-10.42.0.151-443-34556-6,22,female,standard,some high school,Comm&Mgmt,group A,completed,85,90,92,1,1,1,1
+172.217.10.238-10.42.0.151-80-35227-6,21,female,free/reduced,bachelor's degree,Comm&Mgmt,group D,none,78,90,93,1,1,1,0
+174.35.73.78-10.42.0.42-80-33386-6,21,male,free/reduced,master's degree,Comm&Mgmt,group E,completed,49,52,51,2,0,0,0
+10.42.0.211-72.21.206.53-50702-443-6,22,female,free/reduced,high school,Sci&Tech,group B,none,71,87,82,0,0,0,0
+172.217.6.234-10.42.0.211-443-50174-6,21,female,free/reduced,some high school,Comm&Mgmt,group C,none,48,58,52,0,0,0,0
+10.42.0.42-14.29.93.254-59408-80-6,21,male,standard,high school,Sci&Tech,group C,none,62,67,58,0,1,0,1
+202.77.129.146-10.42.0.151-80-36578-6,21,female,free/reduced,associate's degree,Sci&Tech,group C,completed,56,68,70,0,1,1,0
+10.42.0.151-10.42.0.1-35383-53-17,21,female,standard,some high school,Comm&Mgmt,group C,none,65,69,76,0,0,0,0
+10.42.0.211-52.84.29.154-57116-443-6,21,female,free/reduced,some high school,Comm&Mgmt,group D,completed,69,86,81,2,0,1,0
+10.42.0.151-10.42.0.1-13864-53-17,21,male,standard,some high school,Sci&Tech,group B,none,68,54,53,0,0,1,1
+10.42.0.151-98.139.199.205-50099-443-6,21,female,free/reduced,master's degree,Sci&Tech,group A,none,61,60,57,0,0,0,0
+10.42.0.211-10.42.0.1-40839-53-17,21,female,free/reduced,bachelor's degree,Sci&Tech,group C,completed,74,86,89,1,0,1,0
+172.217.12.194-10.42.0.211-443-44450-6,22,male,standard,bachelor's degree,Comm&Mgmt,group A,none,64,60,58,3,0,0,1
+173.194.175.138-10.42.0.151-443-59887-6,21,female,standard,high school,Comm&Mgmt,group B,completed,77,82,89,0,1,0,0
+217.69.133.145-10.42.0.151-443-54650-6,21,male,standard,master's degree,Comm&Mgmt,group B,none,58,50,45,0,1,1,0
+183.232.118.20-10.42.0.211-80-51569-6,21,female,standard,high school,Comm&Mgmt,group C,completed,60,64,74,1,1,1,0
+172.217.6.195-10.42.0.211-443-56717-6,22,male,standard,high school,Comm&Mgmt,group E,none,73,64,57,0,1,1,0
+174.35.73.148-10.42.0.42-80-47178-6,21,female,standard,high school,Sci&Tech,group A,completed,75,82,79,0,0,0,0
+10.42.0.211-119.146.74.34-47825-80-6,22,male,free/reduced,associate's degree,Sci&Tech,group B,completed,58,57,53,0,0,1,0
+172.217.10.40-10.42.0.211-443-51176-6,22,female,standard,associate's degree,Comm&Mgmt,group C,none,66,77,73,1,0,1,1
+10.42.0.211-77.234.44.200-49222-80-6,21,female,free/reduced,high school,Comm&Mgmt,group D,none,39,52,46,0,0,1,0
+10.42.0.211-104.192.110.245-53242-443-6,22,male,standard,some high school,Sci&Tech,group C,none,64,58,51,1,0,1,0
+172.217.10.106-10.42.0.42-443-53205-6,22,female,free/reduced,high school,Comm&Mgmt,group B,completed,23,44,36,1,1,1,0
+10.42.0.151-111.221.77.173-43477-40010-17,22,male,free/reduced,master's degree,Comm&Mgmt,group B,completed,74,77,76,0,1,0,1
+172.217.10.46-10.42.0.151-443-55531-6,22,female,free/reduced,some high school,Others,group D,completed,40,65,64,1,1,1,1
+203.130.53.126-10.42.0.211-80-52261-6,21,male,standard,master's degree,Comm&Mgmt,group E,none,90,85,84,0,0,0,1
+10.42.0.211-36.110.213.174-55987-443-6,22,male,standard,master's degree,Sci&Tech,group C,completed,91,85,85,1,0,0,0
+10.42.0.211-64.71.142.95-53808-443-6,21,male,standard,high school,Comm&Mgmt,group D,none,64,54,50,0,0,1,0
+172.217.12.130-10.42.0.211-443-44096-6,22,female,standard,high school,Sci&Tech,group C,none,59,72,68,0,0,0,0
+203.205.179.172-10.42.0.211-80-40197-6,22,male,standard,associate's degree,Comm&Mgmt,group D,none,80,75,69,2,0,0,0
+10.42.0.211-10.42.0.1-29935-53-17,22,male,standard,master's degree,Comm&Mgmt,group C,none,71,67,67,1,1,1,1
+10.42.0.211-120.76.223.181-58745-83-6,22,female,standard,high school,Others,group A,none,61,68,63,0,0,1,0
+151.101.45.140-10.42.0.211-443-48544-6,21,female,standard,master's degree,Comm&Mgmt,group E,none,87,85,93,0,0,0,0
+183.57.48.84-10.42.0.151-80-42112-6,22,male,standard,some high school,Comm&Mgmt,group E,none,82,67,61,0,0,1,1
+10.42.0.211-67.129.144.48-52728-80-6,22,male,standard,some high school,Comm&Mgmt,group C,none,62,64,55,1,0,1,0
+10.42.0.211-10.42.0.1-43721-53-17,21,female,standard,bachelor's degree,Comm&Mgmt,group B,none,97,97,96,1,0,1,0
+174.35.73.97-10.42.0.211-80-54412-6,21,male,free/reduced,master's degree,Comm&Mgmt,group B,none,75,68,65,2,0,1,0
+10.42.0.211-10.42.0.1-61233-53-17,22,female,standard,bachelor's degree,Comm&Mgmt,group C,none,65,79,81,2,0,1,1
+10.42.0.211-36.110.213.49-51340-80-6,21,male,standard,high school,Sci&Tech,group B,completed,52,49,46,1,0,1,0
+10.42.0.211-31.13.73.3-47990-443-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group C,none,87,73,72,0,0,0,0
+10.42.0.211-64.71.142.120-50831-443-6,22,female,standard,associate's degree,Comm&Mgmt,group C,none,53,62,53,1,1,0,1
+172.217.6.206-10.42.0.42-80-48122-6,21,female,free/reduced,master's degree,Comm&Mgmt,group E,none,81,86,87,1,0,1,0
+10.42.0.151-52.84.61.117-47225-443-6,21,male,free/reduced,bachelor's degree,Sci&Tech,group D,completed,39,42,38,0,1,0,0
+10.42.0.211-10.42.0.1-51819-53-17,21,female,standard,master's degree,Comm&Mgmt,group C,completed,71,71,80,2,1,1,0
+192.229.173.136-10.42.0.151-443-43154-6,21,male,standard,associate's degree,Comm&Mgmt,group C,none,97,93,91,0,1,1,0
+180.76.148.209-10.42.0.211-80-38708-6,22,male,standard,master's degree,Sci&Tech,group D,completed,82,82,88,1,0,1,1
+175.100.207.232-10.42.0.211-443-60550-6,22,male,free/reduced,high school,Comm&Mgmt,group C,none,59,53,52,0,1,1,0
+221.228.208.94-10.42.0.42-80-33208-6,21,male,standard,associate's degree,Comm&Mgmt,group B,none,61,42,41,2,0,1,0
+10.42.0.211-10.42.0.1-12900-53-17,22,male,free/reduced,associate's degree,Others,group E,completed,78,74,72,0,0,1,1
+220.243.219.55-10.42.0.42-80-40099-6,22,male,free/reduced,associate's degree,Comm&Mgmt,group C,none,49,51,51,0,0,1,0
+172.217.6.238-10.42.0.151-80-57702-6,22,male,standard,high school,Sci&Tech,group B,none,59,58,47,1,0,1,0
+10.42.0.211-103.235.46.212-46504-443-6,22,female,standard,master's degree,Comm&Mgmt,group C,completed,70,72,76,1,1,1,0
+10.42.0.211-77.234.42.92-54619-443-6,22,male,standard,associate's degree,Sci&Tech,group B,completed,82,84,78,1,1,1,0
+10.42.0.211-106.11.92.1-48985-443-6,22,male,free/reduced,associate's degree,Sci&Tech,group E,none,90,90,82,0,0,1,0
+202.77.129.185-10.42.0.211-80-36092-6,22,female,free/reduced,bachelor's degree,Comm&Mgmt,group C,none,43,62,61,0,0,0,0
+10.42.0.1-10.42.0.42-53-65089-17,21,male,free/reduced,master's degree,Comm&Mgmt,group C,none,80,64,66,1,1,1,1
+202.77.129.150-10.42.0.151-80-58283-6,22,male,standard,master's degree,Sci&Tech,group D,none,81,82,84,1,0,1,0
+172.217.10.238-10.42.0.211-443-50602-6,21,male,standard,some high school,Comm&Mgmt,group C,none,57,61,54,0,0,1,1
+182.22.24.124-10.42.0.211-443-53913-6,21,female,standard,some high school,Sci&Tech,group D,none,59,72,80,2,0,1,0
+183.79.215.136-10.42.0.42-443-34783-6,21,female,standard,associate's degree,Comm&Mgmt,group D,none,64,76,74,1,1,1,1
+10.42.0.211-10.42.0.1-48184-53-17,22,male,standard,bachelor's degree,Sci&Tech,group C,completed,63,64,66,0,0,1,0
+10.42.0.211-104.118.220.50-60572-443-6,22,female,standard,bachelor's degree,Comm&Mgmt,group E,completed,71,70,70,0,0,0,0
+10.42.0.151-103.235.46.211-56588-443-6,22,female,free/reduced,high school,Comm&Mgmt,group B,none,64,73,71,0,0,1,0
+152.163.56.2-10.42.0.211-443-60209-6,22,male,free/reduced,bachelor's degree,Sci&Tech,group D,none,55,46,44,1,0,1,0
+10.42.0.151-10.42.0.1-20303-53-17,21,female,standard,associate's degree,Comm&Mgmt,group E,none,51,51,54,0,0,1,1
+10.42.0.211-104.192.108.27-52137-80-6,21,female,standard,associate's degree,Comm&Mgmt,group C,completed,62,76,80,0,0,0,1
+172.217.12.174-10.42.0.151-443-48760-6,22,female,standard,associate's degree,Comm&Mgmt,group E,completed,93,100,95,1,0,1,0
+172.217.10.3-10.42.0.151-443-36801-6,22,male,free/reduced,high school,Sci&Tech,group C,none,54,72,59,0,1,1,1
+172.217.10.4-10.42.0.151-443-58544-6,21,female,free/reduced,master's degree,Comm&Mgmt,group D,none,69,65,74,1,0,1,1
+10.42.0.151-10.42.0.1-47335-53-17,22,male,free/reduced,high school,Sci&Tech,group D,none,44,51,48,1,0,0,1
+10.42.0.151-10.42.0.1-50952-53-17,22,female,standard,master's degree,Comm&Mgmt,group E,completed,86,85,91,0,0,1,0
+172.217.3.106-10.42.0.211-443-38436-6,21,female,standard,associate's degree,Others,group E,none,85,92,85,0,0,0,0
+10.42.0.151-10.42.0.1-19451-53-17,21,female,free/reduced,master's degree,Comm&Mgmt,group A,none,50,67,73,1,1,0,1
+180.149.136.194-10.42.0.211-443-39345-6,22,male,standard,some high school,Sci&Tech,group D,completed,88,74,75,0,0,1,0
+10.42.0.1-10.42.0.42-53-7759-17,22,female,standard,associate's degree,Comm&Mgmt,group E,none,59,62,69,0,0,1,1
+216.58.219.238-10.42.0.42-443-57197-6,22,female,free/reduced,some high school,Comm&Mgmt,group E,none,32,34,38,0,1,1,0
+10.42.0.211-106.11.92.1-49264-443-6,22,male,free/reduced,high school,Comm&Mgmt,group B,none,36,29,27,1,0,1,1
+222.73.28.96-10.42.0.211-80-47961-6,21,female,free/reduced,some high school,Comm&Mgmt,group B,completed,63,78,79,1,0,1,0
+183.79.250.251-10.42.0.211-443-54399-6,21,male,standard,associate's degree,Comm&Mgmt,group D,completed,67,54,63,2,0,1,0
+192.229.173.173-10.42.0.211-80-39952-6,22,female,standard,some high school,Comm&Mgmt,group D,completed,65,78,82,3,0,1,0
+172.217.12.206-10.42.0.211-443-37249-6,22,male,standard,master's degree,Comm&Mgmt,group D,none,85,84,89,0,1,1,0
+180.163.255.159-10.42.0.211-443-60226-6,21,female,standard,master's degree,Comm&Mgmt,group C,none,73,78,74,1,1,0,1
+10.42.0.211-10.42.0.1-7721-53-17,22,female,free/reduced,high school,Comm&Mgmt,group A,completed,34,48,41,1,1,1,1
+10.42.0.211-13.93.152.202-54187-443-6,21,female,free/reduced,bachelor's degree,Sci&Tech,group D,completed,93,100,100,1,0,0,0
+208.80.154.224-10.42.0.211-443-41415-6,21,female,free/reduced,some high school,Comm&Mgmt,group D,none,67,84,84,0,1,0,1
+172.217.11.46-10.42.0.211-443-36373-6,22,male,standard,master's degree,Comm&Mgmt,group D,none,88,77,77,0,0,0,1
+10.42.0.151-106.39.169.66-52294-80-6,21,male,standard,high school,Comm&Mgmt,group B,none,57,48,51,1,0,0,1
+10.42.0.211-10.42.0.1-59903-53-17,21,female,standard,master's degree,Sci&Tech,group D,completed,79,84,91,0,0,1,1
+10.42.0.211-23.206.162.129-39571-80-6,22,female,free/reduced,bachelor's degree,Comm&Mgmt,group C,none,67,75,72,0,0,0,0
+10.42.0.1-10.42.0.42-53-39869-17,21,male,standard,bachelor's degree,Sci&Tech,group E,completed,70,64,70,0,1,0,1
+180.149.136.194-10.42.0.211-443-33000-6,21,male,free/reduced,bachelor's degree,Sci&Tech,group D,none,50,42,48,0,0,1,0
+10.42.0.151-66.102.255.61-37352-80-6,21,female,standard,master's degree,Comm&Mgmt,group A,none,69,84,82,0,0,1,0
+10.42.0.211-119.146.74.33-50788-443-6,21,female,standard,bachelor's degree,Comm&Mgmt,group C,completed,52,61,66,1,1,1,0
+172.217.10.131-10.42.0.151-443-57607-6,21,female,free/reduced,bachelor's degree,Sci&Tech,group C,completed,47,62,66,2,0,1,1
+10.42.0.42-64.71.142.110-44985-80-6,22,female,free/reduced,associate's degree,Sci&Tech,group B,none,46,61,55,1,0,1,0
+198.11.132.178-10.42.0.211-443-41230-6,22,female,standard,master's degree,Sci&Tech,group E,none,68,70,66,0,0,1,0
+172.217.9.238-10.42.0.211-443-33553-6,22,male,standard,bachelor's degree,Comm&Mgmt,group E,completed,100,100,100,1,0,1,1
+202.77.129.230-10.42.0.211-80-47955-6,22,female,standard,high school,Comm&Mgmt,group C,none,44,61,52,0,1,0,0
+10.42.0.211-64.71.142.124-38648-443-6,21,female,standard,associate's degree,Comm&Mgmt,group C,completed,57,77,80,0,0,1,0
+182.22.65.136-10.42.0.211-443-57981-6,22,male,standard,master's degree,Comm&Mgmt,group B,completed,91,96,91,2,0,1,0
+10.42.0.42-72.30.3.43-49217-443-6,21,male,free/reduced,high school,Comm&Mgmt,group D,none,69,70,67,0,0,0,0
+180.149.153.234-10.42.0.211-80-52477-6,21,female,free/reduced,high school,Sci&Tech,group C,none,35,53,46,0,0,1,1
+10.42.0.1-10.42.0.42-53-13511-17,21,male,standard,high school,Sci&Tech,group D,none,72,66,66,0,0,0,0
+180.149.134.142-10.42.0.211-80-41278-6,21,female,free/reduced,associate's degree,Comm&Mgmt,group B,none,54,65,65,1,0,0,0
+172.217.10.14-10.42.0.211-443-57430-6,21,male,free/reduced,high school,Comm&Mgmt,group D,none,74,70,69,1,0,0,1
+172.217.12.174-10.42.0.151-443-39157-6,21,male,standard,some high school,Sci&Tech,group E,completed,74,64,60,2,0,0,0
+172.217.12.136-10.42.0.151-443-36812-6,21,male,free/reduced,associate's degree,Comm&Mgmt,group E,none,64,56,52,1,1,1,0
+199.16.156.43-10.42.0.151-443-33509-6,22,female,free/reduced,high school,Comm&Mgmt,group D,completed,65,61,71,2,0,0,0
+10.42.0.151-40.122.44.96-34536-443-6,21,male,free/reduced,associate's degree,Others,group E,completed,46,43,44,1,0,1,0
+172.217.12.142-10.42.0.211-443-49526-6,22,female,free/reduced,some high school,Comm&Mgmt,group C,none,48,56,51,0,0,1,0
+10.42.0.211-54.192.38.154-53340-443-6,22,male,free/reduced,master's degree,Sci&Tech,group C,completed,67,74,70,0,0,0,0
+172.217.10.142-10.42.0.42-443-37627-6,21,male,free/reduced,master's degree,Comm&Mgmt,group D,none,62,57,62,1,0,1,1
+219.142.78.162-10.42.0.151-80-41745-6,22,male,free/reduced,associate's degree,Sci&Tech,group D,completed,61,71,73,2,1,0,0
+10.42.0.211-69.147.64.34-46373-443-6,22,male,free/reduced,bachelor's degree,Comm&Mgmt,group C,completed,70,75,74,1,0,1,1
+180.149.153.234-10.42.0.211-80-49577-6,22,male,standard,associate's degree,Comm&Mgmt,group C,completed,98,87,90,1,0,0,0
+10.42.0.151-10.42.0.1-43455-53-17,22,male,free/reduced,master's degree,Others,group D,none,70,63,58,1,0,0,1
+10.42.0.151-10.42.0.1-1303-53-17,22,male,standard,associate's degree,Comm&Mgmt,group A,none,67,57,53,1,1,0,0
+10.42.0.151-52.218.49.108-47762-80-6,22,female,free/reduced,high school,Comm&Mgmt,group E,none,57,58,57,1,1,1,0
+203.205.179.170-10.42.0.211-80-50103-6,22,male,standard,master's degree,Comm&Mgmt,group D,completed,85,81,85,0,1,0,0
+10.42.0.42-106.11.129.143-55642-443-6,22,male,standard,some high school,Comm&Mgmt,group D,completed,77,68,69,0,0,0,0
+10.42.0.211-72.21.206.53-49770-443-6,22,male,free/reduced,master's degree,Comm&Mgmt,group C,completed,72,66,72,2,0,0,1
+10.42.0.42-106.11.92.1-44676-443-6,22,female,standard,master's degree,Comm&Mgmt,group D,none,78,91,96,0,1,1,0
+172.217.6.234-10.42.0.211-443-56032-6,22,male,standard,high school,Sci&Tech,group C,none,81,66,64,0,0,0,0
+203.205.158.62-10.42.0.211-80-33443-6,22,male,free/reduced,some high school,Comm&Mgmt,group A,completed,61,62,61,0,0,1,0
+10.42.0.151-10.42.0.1-4315-53-17,22,female,standard,high school,Comm&Mgmt,group B,none,58,68,61,1,0,1,1
+10.42.0.211-66.102.255.61-36643-443-6,22,female,standard,associate's degree,Comm&Mgmt,group C,none,54,61,58,1,0,0,0
+172.217.2.110-10.42.0.151-443-36184-6,22,male,standard,high school,Sci&Tech,group B,none,82,82,80,2,0,1,0
+203.205.144.184-10.42.0.151-80-40790-6,21,female,free/reduced,master's degree,Comm&Mgmt,group D,none,49,58,60,1,0,1,1
+10.42.0.211-123.125.115.164-47715-443-6,21,male,free/reduced,some high school,Comm&Mgmt,group B,completed,49,50,52,0,0,1,0
+10.42.0.151-103.235.46.39-50643-80-6,22,female,free/reduced,high school,Sci&Tech,group E,completed,57,75,73,0,0,1,0
+10.42.0.211-36.110.213.49-60366-80-6,22,male,standard,high school,Comm&Mgmt,group E,none,94,73,71,0,0,1,0
+10.42.0.151-31.13.80.5-54547-443-6,22,female,standard,master's degree,Comm&Mgmt,group D,completed,75,77,83,0,0,0,0
+10.42.0.211-31.13.80.5-39369-443-6,22,female,free/reduced,some high school,Others,group E,none,74,74,72,0,0,1,1
+172.217.10.110-10.42.0.151-443-37018-6,21,male,standard,high school,Comm&Mgmt,group C,completed,58,52,54,1,0,0,0
+10.42.0.211-98.139.225.43-50398-443-6,21,female,standard,master's degree,Sci&Tech,group C,none,62,69,69,0,1,1,0
+203.205.158.63-10.42.0.211-80-38560-6,21,male,standard,associate's degree,Comm&Mgmt,group E,none,72,57,62,1,0,0,1
+10.42.0.42-103.43.91.18-50884-443-6,21,male,standard,master's degree,Sci&Tech,group C,none,84,87,81,1,0,1,0
+192.229.173.136-10.42.0.211-443-36901-6,21,female,standard,master's degree,Sci&Tech,group D,none,92,100,100,0,1,0,0
+172.217.3.106-10.42.0.211-443-53133-6,22,female,standard,high school,Comm&Mgmt,group D,none,45,63,59,1,0,0,0
+202.77.129.230-10.42.0.211-80-44977-6,21,male,standard,high school,Comm&Mgmt,group C,none,75,81,71,1,0,0,0
+10.42.0.211-52.84.139.210-53435-80-6,22,female,standard,master's degree,Sci&Tech,group A,none,56,58,64,1,1,1,0
+192.229.173.173-10.42.0.211-443-48497-6,22,female,free/reduced,some high school,Comm&Mgmt,group D,none,48,54,53,1,1,0,0
+172.217.6.238-10.42.0.151-443-33866-6,21,female,standard,associate's degree,Sci&Tech,group E,none,100,100,100,0,0,1,1
+10.42.0.211-98.139.199.205-37100-443-6,21,female,free/reduced,some high school,Comm&Mgmt,group C,completed,65,76,75,0,0,1,0
+10.42.0.211-103.7.30.118-45944-80-6,22,male,standard,master's degree,Sci&Tech,group D,none,72,57,58,2,0,1,1
+10.42.0.1-10.42.0.42-53-64910-17,22,female,standard,master's degree,Comm&Mgmt,group D,none,62,70,72,0,1,0,0
+10.42.0.211-10.42.0.1-43186-53-17,22,male,standard,some high school,Comm&Mgmt,group A,completed,66,68,64,0,1,0,1
+10.42.0.151-121.12.98.64-33778-80-6,22,male,standard,master's degree,Sci&Tech,group C,none,63,63,60,1,0,0,0
+10.42.0.211-58.63.236.212-42039-443-6,21,female,standard,associate's degree,Comm&Mgmt,group E,none,68,76,67,0,1,1,0
+10.42.0.211-64.71.142.124-55735-443-6,21,female,standard,bachelor's degree,Comm&Mgmt,group B,none,75,84,80,0,0,1,0
+180.96.74.33-10.42.0.151-80-44789-6,22,female,standard,bachelor's degree,Comm&Mgmt,group D,none,89,100,100,1,0,0,0
+172.217.11.14-10.42.0.151-443-55884-6,21,male,standard,some high school,Sci&Tech,group C,completed,78,72,69,0,0,0,0
+208.80.154.224-10.42.0.211-443-53567-6,21,female,free/reduced,high school,Comm&Mgmt,group A,completed,53,50,60,0,1,1,0
+209.10.120.24-10.42.0.211-80-41414-6,22,female,free/reduced,master's degree,Sci&Tech,group D,none,49,65,61,1,0,0,1
+172.217.12.170-10.42.0.151-443-33092-6,21,female,standard,master's degree,Comm&Mgmt,group A,none,54,63,67,1,1,1,0
+203.205.158.63-10.42.0.211-80-51834-6,21,female,standard,master's degree,Comm&Mgmt,group C,completed,64,82,77,0,0,1,0
+10.42.0.211-64.71.142.110-57930-443-6,22,male,free/reduced,master's degree,Comm&Mgmt,group B,completed,60,62,60,0,1,0,0
+172.217.10.238-10.42.0.211-443-45492-6,21,male,standard,associate's degree,Sci&Tech,group C,none,62,65,58,0,1,0,1
+172.217.3.100-10.42.0.151-443-47424-6,22,male,standard,high school,Sci&Tech,group D,completed,55,41,48,0,0,0,1
+172.217.12.206-10.42.0.42-443-41863-6,22,female,standard,associate's degree,Sci&Tech,group C,none,91,95,94,1,0,0,1
+10.42.0.211-104.254.66.16-44501-80-6,22,female,free/reduced,high school,Comm&Mgmt,group B,none,8,24,23,0,0,1,0
+172.217.3.99-10.42.0.151-443-41874-6,22,male,standard,some high school,Comm&Mgmt,group D,none,81,78,78,0,1,1,1
+10.42.0.151-106.11.129.143-58315-443-6,21,male,standard,some high school,Sci&Tech,group B,completed,79,85,86,1,0,1,0
+174.35.73.108-10.42.0.42-80-50255-6,22,female,standard,master's degree,Sci&Tech,group A,completed,78,87,91,0,0,1,1
+10.42.0.1-10.42.0.42-53-1367-17,22,female,standard,some high school,Comm&Mgmt,group C,none,74,75,82,0,0,0,1
+203.130.53.126-10.42.0.42-80-50846-6,22,male,standard,high school,Sci&Tech,group A,none,57,51,54,1,0,0,0
+151.101.21.140-10.42.0.211-443-42595-6,21,female,standard,associate's degree,Others,group C,none,40,59,51,1,0,1,0
+10.42.0.211-10.42.0.1-7856-53-17,22,male,standard,some high school,Comm&Mgmt,group E,completed,81,75,76,1,1,0,1
+10.42.0.211-72.21.206.121-34201-443-6,22,female,free/reduced,some high school,Comm&Mgmt,group A,none,44,45,45,2,1,0,0
+172.217.10.14-10.42.0.151-443-41432-6,22,female,free/reduced,master's degree,Others,group D,completed,67,86,83,0,0,1,0
+10.42.0.211-104.193.88.102-55887-443-6,22,male,free/reduced,high school,Comm&Mgmt,group E,completed,86,81,75,0,1,1,0
+172.217.6.202-10.42.0.151-443-58639-6,22,female,standard,some high school,Sci&Tech,group B,completed,65,82,78,2,0,0,1
+216.58.219.194-10.42.0.42-443-36769-6,22,female,free/reduced,associate's degree,Comm&Mgmt,group D,none,55,76,76,0,1,0,0
+172.217.3.110-10.42.0.42-443-60183-6,22,female,free/reduced,bachelor's degree,Comm&Mgmt,group D,none,62,72,74,1,0,0,0
+10.42.0.211-10.42.0.1-46561-53-17,21,male,standard,high school,Comm&Mgmt,group A,none,63,63,62,1,1,0,1
+10.42.0.42-66.198.178.91-57417-443-6,21,female,standard,master's degree,Comm&Mgmt,group E,completed,88,99,95,1,0,1,0
+174.35.73.78-10.42.0.151-80-48211-6,22,male,free/reduced,high school,Comm&Mgmt,group C,none,62,55,55,1,0,1,0
+10.42.0.42-62.138.0.117-51683-80-6,21,female,free/reduced,high school,Others,group C,completed,59,71,65,2,0,0,0
+10.42.0.1-10.42.0.42-53-9299-17,21,female,standard,master's degree,Comm&Mgmt,group D,completed,68,78,77,0,0,0,0
+203.205.158.53-10.42.0.42-80-50110-6,21,female,free/reduced,master's degree,Comm&Mgmt,group D,none,77,86,86,0,0,1,1
